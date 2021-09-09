@@ -1,0 +1,45 @@
+$main-color: #841414;
+$main-background: #fdeeee;
+$lighter-gradient: #b12121;
+
+@font-face {
+  font-family: "Glacial Indifference";
+  src: url("/assets/glacial-indifference/GlacialIndifference-Regular.otf")
+    format("opentype");
+}
+
+body {
+  font-family: "Glacial Indifference", BlinkMacSystemFont, "Segoe UI", "Roboto",
+    "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  background-color: $main-background;
+}
+.link-container {
+  background-color: $main-color;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-items: center;
+  align-content: center;
+  align-items: center;
+  height: 45px;
+  width: 45px;
+  margin-left: 4px;
+  margin-right: 4px;
+  border-radius: 4vw;
+  color: white;
+}
+
+.link-container:hover {
+  background-color: $lighter-gradient;
+}
+
+.link-img {
+  height: 75%;
+  width: 75%;
+}
+
+.links-list {
+  display: flex;
+  flex-direction: row;
+}

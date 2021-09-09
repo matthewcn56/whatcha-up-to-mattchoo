@@ -1,0 +1,15 @@
+<footer>
+  Contact Me Here:
+  <div class="links-list">
+    {% for item in site.data.links %}
+    <a
+      href="{{item.link}}"
+      class="link-container"
+      rel="noreferrer noopener"
+      target="_blank"
+    >
+      <img class="link-img" src="{{item.icon}}" alt="{{item.name}}" />
+    </a>
+    {% endfor %}
+  </div>
+</footer>

@@ -1,0 +1,9 @@
+- name: Home
+  link: https://matthewnieva.com
+  icon: /assets/images/homeLight.svg
+- name: Github
+  link: https://github.com/matthewcn56
+  icon: /assets/images/githubLight.svg
+- name: Email
+  link: mailto:matthewcn56@gmail.com
+  icon: /assets/images/emailLight.svg
