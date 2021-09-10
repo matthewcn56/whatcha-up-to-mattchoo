@@ -1,11 +1,12 @@
-<nav class="navbar">
-    <a class="home-link hover-text" href= "{{ site.baseurl }}/index.html">Mattchoo's Blog</a>
-    <span class = "tags-nav">
-        {% for tag in site.tags %}
-        <a href="{{site.baseurl}}/{{tag[0]}}.html" {% if page.url == item.link %} style="color: red;"{% endif %}>
-        {{ tag[0] }}
-        </a>
-        {% endfor %}
-    </span>
-    
+<nav>
+  <a class="home-link hover-text" href="{{ site.baseurl }}/index.html"
+    >Mattchoo's Blog
+  </a>
+  <span class="tags-nav">
+    {% for tag in site.tags %}
+    <a href="{{site.baseurl}}/{{tag[0]}}.html" class="nav-tag small-hover-text">
+      {{ tag[0] }}
+    </a>
+    {% endfor %}
+  </span>
 </nav>

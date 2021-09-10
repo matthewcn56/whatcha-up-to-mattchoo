@@ -41,22 +41,33 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  width: 40vw;
-  font-size: 30px;
+  min-width: 40vw;
+  max-width: 300px;
+  flex-wrap: wrap;
+  font-size: 20px;
   align-content: center;
 }
 
-.navbar {
+.nav-tag {
+  margin: 5px;
+}
+
+nav {
+  top: 0;
+  padding-top: 5px;
   display: flex;
+  position: fixed;
   flex-direction: row;
+  flex-wrap: wrap;
   width: 100%;
   justify-content: space-between;
   align-content: center;
   align-items: center;
+  background-color: $main-background !important;
 }
 
 .home-link {
-  font-size: 40px;
+  font-size: 30px;
   text-decoration: none;
 }
 
@@ -89,6 +100,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
 
 .hover-text {
@@ -101,6 +113,20 @@ body {
 }
 
 .hover-text:hover {
+  background-size: 100% 100%;
+  color: white;
+}
+
+.small-hover-text {
+  background-position: left bottom;
+  text-decoration: none;
+  background-image: linear-gradient($post-background 0%, $main-color 0%);
+  background-size: 100% 2.5px;
+  transition: all 750ms ease;
+  background-repeat: no-repeat;
+}
+
+.small-hover-text:hover {
   background-size: 100% 100%;
   color: white;
 }
@@ -130,4 +156,13 @@ footer {
 
 .footer-title {
   font-size: 40px;
+}
+
+.main-body {
+  padding-top: 4rem;
+}
+
+hr {
+  color: $main-color;
+  background-color: $main-color;
 }

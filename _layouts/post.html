@@ -11,10 +11,12 @@
   </head>
   <body>
     {% include nav.html %} 
-    <hr></hr>
-
-    {{ content }} 
-    <hr></hr>
-    {% include footer.html %}
+    <div class="main-body">
+      <h2>{{ page.title }}</h2>
+      {{ content }} 
+      <hr></hr>
+      {% include footer.html %}
+    </div>  
   </body>
+
 </html>

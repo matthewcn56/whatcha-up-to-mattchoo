@@ -6,38 +6,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" href="/assets/images/favicon.ico" />
     <link rel="stylesheet" href="/assets/css/styles.css" />
-    <meta name="description" content="what's going on in mattchoo's life" />
+    <meta name="description" content="A collection of what’s happening in Mattchoo’s life right now, and whatever comes to his mind." />
     <title>{{ page.title }}</title>
   </head>
   <body>
     {% include nav.html %} 
-    <hr></hr>
-    {{ content }} 
-    <hr />
-    <ul>
-      {% for post in site.posts %}
-          <li class="post">
-            <span class="post-line">
-              <a  class = "hover-text post-title" href="{{post.url}}">{{ post.title }}</a>
-              <div> {{ post.date | date: '%B %d, %Y'}}</div>
-            </span>
-            <div>
-              {{ post.excerpt }}
-            </div>
-            <div>
-                Tags: 
-                {% for tag in post.tags %}
-                <a href="{{ site.baseurl}}/{{ tag }}" class = "tag-link">
-                    <span class="tag-container hover-text">{{ tag }}</span>
-                </a>
-                {% endfor %}
-            </div>
-            <hr/>
-            
-          </li>
-      {% endfor %}
-    </ul>
-    <hr></hr>
+    <div class="main-body">
+      {{ content }} 
+      <ul>
+        {% for post in site.posts %}
+            <li class="post">
+              <span class="post-line">
+                <a  class = "hover-text post-title" href="{{post.url}}">{{ post.title }}</a>
+                <div> {{ post.date | date: '%B %d, %Y'}}</div>
+              </span>
+              <div>
+                {{ post.excerpt }}
+              </div>
+              <div>
+                  Tags: 
+                  {% for tag in post.tags %}
+                  <a href="{{ site.baseurl}}/{{ tag }}" class = "tag-link">
+                      <span class="tag-container hover-text">{{ tag }}</span>
+                  </a>
+                  {% endfor %}
+              </div>
+              <hr/>
+              
+            </li>
+        {% endfor %}
+      </ul>
+      <hr></hr>
+  </div>
     {% include footer.html %}
   </body>
 </html>
