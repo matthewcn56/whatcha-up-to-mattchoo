@@ -37,6 +37,29 @@ body {
   color: $main-color;
 }
 
+.tags-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 40vw;
+  font-size: 30px;
+  align-content: center;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+}
+
+.home-link {
+  font-size: 40px;
+  text-decoration: none;
+}
+
 .link-container:hover {
   background-color: $lighter-gradient;
 }
@@ -53,9 +76,33 @@ body {
 
 .post {
   max-width: 80%;
-  background-color: $post-background;
   border-radius: 20px;
+  font-size: 25px;
   padding: 10px;
+}
+
+.post-title {
+  font-size: 40px;
+}
+
+.post-line {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.hover-text {
+  background-position: left bottom;
+  text-decoration: none;
+  background-image: linear-gradient($post-background 0%, $main-color 0%);
+  background-size: 100% 5px;
+  transition: all 750ms ease;
+  background-repeat: no-repeat;
+}
+
+.hover-text:hover {
+  background-size: 100% 100%;
+  color: white;
 }
 
 .tag-container {
@@ -69,4 +116,18 @@ body {
 
 .tag-link {
   text-decoration: none;
+}
+
+footer {
+  font-size: 20px;
+}
+
+.footer-text {
+  max-width: 70%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.footer-title {
+  font-size: 40px;
 }
