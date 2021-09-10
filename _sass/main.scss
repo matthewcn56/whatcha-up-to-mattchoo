@@ -1,6 +1,8 @@
 $main-color: #841414;
 $main-background: #fdeeee;
-$lighter-gradient: #b12121;
+$lighter-gradient: rgb(218, 142, 142);
+$lighter-text: #dfdfdf;
+$post-background: #faa7a7;
 
 @font-face {
   font-family: "Glacial Indifference";
@@ -13,6 +15,7 @@ body {
     "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   background-color: $main-background;
+  font-size: 20px;
 }
 .link-container {
   background-color: $main-color;
@@ -30,6 +33,10 @@ body {
   color: white;
 }
 
+.emphasized-text {
+  color: $main-color;
+}
+
 .link-container:hover {
   background-color: $lighter-gradient;
 }
@@ -42,4 +49,24 @@ body {
 .links-list {
   display: flex;
   flex-direction: row;
+}
+
+.post {
+  max-width: 80%;
+  background-color: $post-background;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.tag-container {
+  background-color: $main-background;
+}
+
+.tag-container:hover {
+  background-color: $main-color;
+  color: $lighter-text;
+}
+
+.tag-link {
+  text-decoration: none;
 }
