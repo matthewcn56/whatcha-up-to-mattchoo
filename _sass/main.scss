@@ -112,7 +112,8 @@ nav {
   background-repeat: no-repeat;
 }
 
-.hover-text:hover {
+.hover-text:hover,
+.hover-text:active {
   background-size: 100% 100%;
   color: white;
 }
@@ -126,7 +127,8 @@ nav {
   background-repeat: no-repeat;
 }
 
-.small-hover-text:hover {
+.small-hover-text:hover,
+.small-hover-text:active {
   background-size: 100% 100%;
   color: white;
 }
