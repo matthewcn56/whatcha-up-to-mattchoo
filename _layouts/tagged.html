@@ -13,7 +13,6 @@
     {% include nav.html %} 
     <div class="main-body">
       {{ content }} 
-      <ul class="post-list">
         {% for tag in site.tags %}
           {% if tag[0] == page.title %}
             {% for post in tag[1] %}
@@ -33,13 +32,11 @@
                   </a>
                   {% endfor %}
               </div>
-              <hr/>
-              
+              <hr/>         
             </li>
+          {% endfor %}
+          {% endif %}
         {% endfor %}
-      </ul>
-        {% endif %}
-      {% endfor %}
       <hr></hr>
       {% include footer.html %}
     </div>

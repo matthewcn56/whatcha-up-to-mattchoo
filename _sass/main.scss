@@ -101,6 +101,10 @@ nav {
   font-size: 40px;
 }
 
+.post-list {
+  list-style: none;
+}
+
 .post-line {
   display: flex;
   flex-direction: row;
@@ -186,4 +190,8 @@ footer {
 .break {
   width: 100%;
   background-color: $main-color;
+}
+
+li {
+  list-style: none;
 }
