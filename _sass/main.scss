@@ -195,3 +195,36 @@ footer {
 li {
   list-style: none;
 }
+
+.scrobble {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  font-size: 25px;
+}
+.scrobbled-img {
+  width: 120px;
+  height: auto;
+}
+
+.scrobble-title {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.scrobble-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 20px;
+}
+
+.scrobble-genre {
+  margin: 5px;
+}

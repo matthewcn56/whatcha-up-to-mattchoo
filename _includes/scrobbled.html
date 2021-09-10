@@ -1,0 +1,54 @@
+{% for song in site.data.top_scrobbled reversed%}
+<li class="scrobble">
+  <div>{{ song.week }}</div>
+  <div class="scrobble-title">
+    <a
+      href="{{ song.song_link}}"
+      target="_blank"
+      rel="noreferrer noopener"
+      class="hover-text"
+      ><span>{{ song.track }}</span>
+    </a>
+    <div>
+      By:
+      <a
+        href="{{ song.artist_link}}"
+        target="_blank"
+        rel="noreferrer noopener"
+        class="hover-text"
+      >
+        {{ song.artist }}
+      </a>
+    </div>
+  </div>
+  <div class="scrobble-body">
+    <img src="/assets/images/scrobbled/{{ song.img }}" class="scrobbled-img" />
+    <div class="scrobble-info">
+      <div>
+        <span>
+          Genres: {% for genre in song.genres %}
+          <a
+            href="{{ genre.playlist}}"
+            target="_blank"
+            rel="noreferrer noopener"
+            class="small-hover-text scrobble-genre"
+          >
+            <span>{{genre.type}}</span>
+          </a>
+          {% endfor %}
+        </span>
+      </div>
+      <div>
+        <span>Scrobbled: {{song.scrobbles}} times</span>
+      </div>
+      <div>
+        <span>Fave lyric: "{{ song.lyric }}" </span>
+      </div>
+      <div>
+        <span>Highlight: {{ song.highlight }} </span>
+      </div>
+    </div>
+  </div>
+</li>
+<hr class="break" />
+{% endfor %}

@@ -1,0 +1,30 @@
+- track: "beside you"
+  artist: "keshi"
+  scrobbles: 18
+  genres:
+    - type: rnb
+      playlist: https://open.spotify.com/playlist/52lR47kvI8TBfyMGEj2xkY?si=a28643018a83413f
+    - type: pop
+      playlist: https://open.spotify.com/playlist/6NCrHXdNcm7Sf1hgesp0xq?si=67ebe962794846f0
+
+  lyric: "We got no interruptions and we both feelin' the vibe"
+  highlight: "madeon's beats never dissapoint"
+  date: 2021-09-03
+  week: "Aug 27 - Sep 2, 2021"
+  img: "beside-you.jpg"
+  song_link: "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe?si=c41678c13ed644f0"
+  artist_link: "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=XDQEvTQDRFuyBP9htywnfw&dl_branch=1"
+
+- track: "STEREOTYPE"
+  artist: "StayC"
+  scrobbles: 11
+  genres:
+    - type: kpop
+      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+  lyric: "I may seem flashy on the outside but I’m still afraid"
+  highlight: "the last chorus with isa's voice hits different"
+  date: 2021-09-10
+  week: "Sep 3 - Sep 9, 2021"
+  img: "stereotype.jpeg"
+  song_link: "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd?si=4287f1266f2c4143"
+  artist_link: "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0?si=eaVS9UcGTEacrjSW8Njr0g&dl_branch=1"
