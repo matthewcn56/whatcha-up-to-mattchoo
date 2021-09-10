@@ -13,7 +13,7 @@
     {% include nav.html %} 
     <div class="main-body">
       {{ content }} 
-      <ul>
+      <ul class="post-list">
         {% for post in site.posts %}
             <li class="post">
               <span class="post-line">
@@ -37,7 +37,7 @@
         {% endfor %}
       </ul>
       <hr></hr>
-  </div>
-    {% include footer.html %}
+      {% include footer.html %}
+    </div>
   </body>
 </html>

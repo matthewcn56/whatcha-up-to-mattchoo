@@ -10,13 +10,20 @@
     <title>{{ page.title }}</title>
   </head>
   <body>
-    {% include nav.html %} 
+    {% include nav.html %}
     <div class="main-body">
-      <h2>{{ page.title }}</h2>
-      {{ content }} 
-      <hr></hr>
+      <div class="post-title">{{ page.title }}</div>
+      <div class="post-description">
+        Tags: {% for tag in page.tags %}
+        <a href="{{ site.baseurl}}/{{ tag }}" class="tag-link">
+          <span class="tag-container hover-text">{{ tag }}</span>
+        </a>
+        {% endfor %}
+      </div>
+      <div>{{page.date | date: '%B %d, %Y'}}</div>
+      {{ content }}
+      <hr class="break"></hr>
       {% include footer.html %}
-    </div>  
+    </div>
   </body>
-
 </html>

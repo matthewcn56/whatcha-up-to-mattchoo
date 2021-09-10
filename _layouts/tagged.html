@@ -13,7 +13,7 @@
     {% include nav.html %} 
     <div class="main-body">
       {{ content }} 
-      <ul>
+      <ul class="post-list">
         {% for tag in site.tags %}
           {% if tag[0] == page.title %}
             {% for post in tag[1] %}

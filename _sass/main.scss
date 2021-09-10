@@ -16,6 +16,11 @@ body {
     sans-serif;
   background-color: $main-background;
   font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  align-content: center;
 }
 .link-container {
   background-color: $main-color;
@@ -86,7 +91,7 @@ nav {
 }
 
 .post {
-  max-width: 80%;
+  width: 100%;
   border-radius: 20px;
   font-size: 25px;
   padding: 10px;
@@ -148,6 +153,10 @@ nav {
 
 footer {
   font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
 }
 
 .footer-text {
@@ -161,10 +170,20 @@ footer {
 }
 
 .main-body {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  width: 80%;
   padding-top: 4.5rem;
+  align-content: center;
+  align-items: center;
 }
 
-hr {
-  color: $main-color;
+.post-description {
+  font-size: 25px;
+}
+
+.break {
+  width: 100%;
   background-color: $main-color;
 }
