@@ -73,10 +73,13 @@ nav {
   flex-direction: row;
   flex-wrap: wrap;
   width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
   justify-content: space-between;
   align-content: center;
   align-items: center;
-  background-color: $main-background !important;
+  background-color: $main-background;
+  z-index: 2;
 }
 
 .home-link {
