@@ -1,4 +1,5 @@
-{% for song in site.data.top_scrobbled reversed%}
+{% assign text_list = '' %} {% for song in site.data.top_scrobbled reversed %}
+{% endfor %} {% for song in site.data.top_scrobbled reversed%}
 <li class="scrobble">
   <div>{{ song.week }}</div>
   <div class="scrobble-title">

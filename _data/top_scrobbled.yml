@@ -1,19 +1,177 @@
+- track: "L2M"
+  artist: "City Girl"
+  scrobbles: 9
+  genres:
+    - type: "hip-hop"
+      playlist: "https://open.spotify.com/playlist/1ecOHyAwXOIXcGUNVZihfG?si=35b28f842d8142d8"
+    - type: "electronic"
+      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=5e221670580d402d"
+  lyric: "Baby you should come on over, we could see it through"
+  highlight: "great flow, synth hits. the production is superb"
+  date: 2021-06-24
+  img: "l2m.png"
+  week: "Jun 17 - Jun 23, 2021"
+  song_link: "https://open.spotify.com/track/3u5jgQDJvPoMPpRrbjEqPz?si=8534806db37c4528"
+  artist_link: "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ?si=Un8xgEY_TM-0GySSw77B4Q&dl_branch=1"
+- track: "Your voice so..."
+  scrobbles: 7
+  artist: "PSYQUI"
+  genres:
+    - type: "j-pop"
+      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=32505f7ea44b47cf"
+    - type: "electronic"
+      playlist: "https://open.spotify.com/playlist/4zF9xcrOQJSoLA3oWNdlVP?si=51d398ea0bbe4f9b"
+  lyric: "you take me high"
+  highlight: "future bass and dnb perfection"
+  date: 2021-07-02
+  img: "your-voice-so.png"
+  week: "Jun 25 - Jul 1, 2021"
+  song_link: "https://open.spotify.com/track/0Hy9VPPf6qSN1Iku4Doxsv?si=058a3e1404d84832"
+  artist_link: "https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl?si=a9fukWRVSjeZiQ5wvq9KVg&dl_branch=1"
+
+- track: "no more zero days"
+  artist: "albie"
+  scrobbles: 11
+  genres:
+    - type: lo-fi
+      playlist: "https://open.spotify.com/playlist/6YpGPZ2hN9dWl8YXGhYd8C?si=6a44b697c5ec405e"
+    - type: electronic
+      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=f865e7f43bf24d41"
+  lyric: ""
+  highlight: "repetition of the main motif reinforces the theme of building habits to avoid zero days!"
+  date: 2021-07-09
+  img: "no-more-zero-days.png"
+  week: "Jul 2 - Jul 8, 2021"
+  song_link: "https://open.spotify.com/track/6tdU8gd5vvabEyvCKVQo4s?si=2e31caaa8e7749dc"
+  artist_link: "https://open.spotify.com/artist/3A8eU5YgR9Ntz1C5XBKKaU?si=1n49_dxTQwCYM3_fKzAcWw&dl_branch=1"
+
+- track: "City Girl"
+  artist: "City Girl"
+  scrobbles: 8
+  genres:
+    - type: lo-fi
+      playlist: "https://open.spotify.com/playlist/6YpGPZ2hN9dWl8YXGhYd8C?si=6a44b697c5ec405e"
+    - type: electronic
+      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=f865e7f43bf24d41"
+  lyric: ""
+  highlight: "It feels like walking alone in a quiet city-scape"
+  date: 2021-07-16
+  week: "Jul 9 - Jul 15, 2021"
+  img: "city-girl.png"
+  song_link: "https://open.spotify.com/track/5nEmOAtwk043VtpLQXWAQi?si=a43ea99da3324377"
+  artist_link: "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ?si=qZQw54aLRoyv7eOpxG_UWA&dl_branch=1"
+
 - track: "beside you"
   artist: "keshi"
-  scrobbles: 18
+  scrobbles: 8
   genres:
     - type: rnb
       playlist: https://open.spotify.com/playlist/52lR47kvI8TBfyMGEj2xkY?si=a28643018a83413f
     - type: pop
       playlist: https://open.spotify.com/playlist/6NCrHXdNcm7Sf1hgesp0xq?si=67ebe962794846f0
-
   lyric: "We got no interruptions and we both feelin' the vibe"
-  highlight: "madeon's beats never dissapoint"
-  date: 2021-09-03
-  week: "Aug 27 - Sep 2, 2021"
+  highlight: "The 3 second bridge makes the song"
+  date: 2021-07-23
+  week: "Jul 16 - Jul 22, 2021"
   img: "beside-you.jpg"
   song_link: "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe?si=c41678c13ed644f0"
   artist_link: "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=XDQEvTQDRFuyBP9htywnfw&dl_branch=1"
+
+- track: "STAY"
+  artist: "Kenny Gabriel"
+  scrobbles: 7
+  genres:
+    - type: pop
+      playlist: "https://open.spotify.com/playlist/6NCrHXdNcm7Sf1hgesp0xq?si=aac1d286c89349e8"
+    - type: rnb
+      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+  lyric: "You′re the only one I would fall for"
+  highlight: "trap breakdowns and smooth vocals, a song of juxtapositions"
+  date: 2021-07-30
+  week: "Jul 23 - Jul 29, 2021"
+  img: "stay.png"
+  song_link: "https://open.spotify.com/track/453LUWCXecCS234CYjtnoL?si=b0d314f83eb8419a"
+  artist_link: "https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu?si=j4eX0XrXRaqGXVJtpp23Dg&dl_branch=1"
+
+- track: "AURA"
+  artist: "JUNNY"
+  scrobbles: 8
+  genres:
+    - type: k-pop
+      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+    - type: hip-hop
+      playlist: "https://open.spotify.com/playlist/1ecOHyAwXOIXcGUNVZihfG?si=ff0a39f8172144cf"
+  lyric: "I feel like I'm wastin' time, Tryna find where you are"
+  highlight: "string instrumentals and syncopation, amazing"
+  date: 2021-08-06
+  week: "Jul 30 - Aug 5, 2021"
+  img: "aura.png"
+  song_link: "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34?si=f524dc0271fd4313"
+  artist_link: "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr?si=srbhU2LEQ-maOk_mAc6LyA&dl_branch=1"
+
+- track: "Sorbet"
+  artist: "galdive"
+  scrobbles: 10
+  genres:
+    - type: rnb
+      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+    - type: electronic
+      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=f865e7f43bf24d41"
+    - type: alternative
+      playlist: "https://open.spotify.com/playlist/67oR5EbL2QPMlErBvGWRmx?si=bed909aaa12043b1"
+  lyric: "Together chasing waves, It's the day for you and I"
+  highlight: "I am a simp for tanisha's voice"
+  date: 2021-08-13
+  week: "Aug 6 - Aug 12, 2021"
+  img: "sorbet.png"
+  song_link: "https://open.spotify.com/track/4LHGY9MUZUUUfUGaZ6nQwu?si=c4dbc5a9742048d8"
+  artist_link: "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT?si=S7tW5pBPRkCfqpA8Qq4NUw&dl_branch=1"
+
+- track: "Queendom"
+  artist: "red velvet"
+  scrobbles: 10
+  genres:
+    - type: k-pop
+      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+  lyric: "Rainbow completed in all different colors"
+  highlight: "Bright synths, a more mature take on color-pop"
+  date: 2021-08-20
+  week: "Aug 13 - Aug 19, 2021"
+  img: "queendom.png"
+  song_link: "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ?si=0805802e9c8e4a38"
+  artist_link: "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM?si=4d1tJ1BVSMyXcLFWgjNsfQ&dl_branch=1"
+
+- track: "beside you"
+  artist: "keshi"
+  scrobbles: 8
+  genres:
+    - type: rnb
+      playlist: https://open.spotify.com/playlist/52lR47kvI8TBfyMGEj2xkY?si=a28643018a83413f
+    - type: pop
+      playlist: https://open.spotify.com/playlist/6NCrHXdNcm7Sf1hgesp0xq?si=67ebe962794846f0
+  lyric: "We got no interruptions and we both feelin' the vibe"
+  highlight: "madeon's beats never dissapoint"
+  date: 2021-08-27
+  week: "Aug 20 - Aug 26, 2021"
+  img: "beside-you.jpg"
+  song_link: "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe?si=c41678c13ed644f0"
+  artist_link: "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=XDQEvTQDRFuyBP9htywnfw&dl_branch=1"
+
+- track: "PLASTIC"
+  artist: "sakehands"
+  scrobbles: 6
+  genres:
+    - type: hip-hop
+      playlist: https://open.spotify.com/playlist/1ecOHyAwXOIXcGUNVZihfG?si=ff0a39f8172144cf
+    - type: rnb
+      playlist: https://open.spotify.com/playlist/52lR47kvI8TBfyMGEj2xkY?si=a28643018a83413f
+  lyric: "I ain’t got no ride, but I got that rhythm babe"
+  highlight: "that beat hits"
+  date: 2021-09-03
+  week: "Aug 27 - Sep 2, 2021"
+  img: "plastic.png"
+  song_link: "https://open.spotify.com/track/6ZydkZ1ZuVuUCYj1YrWYXV?si=f864eebd17684731"
+  artist_link: "https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D?si=gUAWjLkxRt2e35gPvD7RSQ&dl_branch=1"
 
 - track: "STEREOTYPE"
   artist: "StayC"

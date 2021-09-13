@@ -10,6 +10,20 @@ $post-background: #faa7a7;
     format("opentype");
 }
 
+@mixin linked($line-size: 2.5px) {
+  background-position: left bottom;
+  text-decoration: none;
+  background-image: linear-gradient($post-background 0%, $main-color 0%);
+  background-size: 100% $line-size;
+  transition: all 750ms ease;
+  background-repeat: no-repeat;
+  &:hover,
+  &:active {
+    background-size: 100% 100%;
+    color: white;
+  }
+}
+
 body {
   font-family: "Glacial Indifference", BlinkMacSystemFont, "Segoe UI", "Roboto",
     "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -124,33 +138,12 @@ nav {
 }
 
 .hover-text {
-  background-position: left bottom;
-  text-decoration: none;
-  background-image: linear-gradient($post-background 0%, $main-color 0%);
-  background-size: 100% 5px;
-  transition: all 750ms ease;
-  background-repeat: no-repeat;
+  @include linked(5px);
 }
 
-.hover-text:hover,
-.hover-text:active {
-  background-size: 100% 100%;
-  color: white;
-}
-
-.small-hover-text {
-  background-position: left bottom;
-  text-decoration: none;
-  background-image: linear-gradient($post-background 0%, $main-color 0%);
-  background-size: 100% 2.5px;
-  transition: all 750ms ease;
-  background-repeat: no-repeat;
-}
-
-.small-hover-text:hover,
-.small-hover-text:active {
-  background-size: 100% 100%;
-  color: white;
+.small-hover-text,
+a {
+  @include linked(2.5px);
 }
 
 .tag-container {
@@ -215,7 +208,7 @@ li {
 }
 .scrobbled-img {
   width: 120px;
-  height: auto;
+  height: 120px;
 }
 
 .scrobble-title {
@@ -236,6 +229,15 @@ li {
   font-size: 20px;
 }
 
+.scrobble-info {
+  width: 70%;
+  min-width: 180px;
+}
+
 .scrobble-genre {
   margin: 5px;
+}
+
+img {
+  max-width: 100%;
 }
