@@ -1,11 +1,7 @@
 - track: "L2M"
   artist: "City Girl"
   scrobbles: 9
-  genres:
-    - type: "hip-hop"
-      playlist: "https://open.spotify.com/playlist/1ecOHyAwXOIXcGUNVZihfG?si=35b28f842d8142d8"
-    - type: "electronic"
-      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=5e221670580d402d"
+  genres: [hip-hop, electronic]
   lyric: "Baby you should come on over, we could see it through"
   highlight: "great flow, synth hits. the production is superb"
   date: 2021-06-24
@@ -16,11 +12,7 @@
 - track: "Your voice so..."
   scrobbles: 7
   artist: "PSYQUI"
-  genres:
-    - type: "j-pop"
-      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=32505f7ea44b47cf"
-    - type: "electronic"
-      playlist: "https://open.spotify.com/playlist/4zF9xcrOQJSoLA3oWNdlVP?si=51d398ea0bbe4f9b"
+  genres: [j-pop, dubstep]
   lyric: "you take me high"
   highlight: "future bass and dnb perfection"
   date: 2021-07-02
@@ -32,11 +24,7 @@
 - track: "no more zero days"
   artist: "albie"
   scrobbles: 11
-  genres:
-    - type: lo-fi
-      playlist: "https://open.spotify.com/playlist/6YpGPZ2hN9dWl8YXGhYd8C?si=6a44b697c5ec405e"
-    - type: electronic
-      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=f865e7f43bf24d41"
+  genres: [lo-fi, electronic]
   lyric: ""
   highlight: "repetition of the main motif reinforces the theme of building habits to avoid zero days!"
   date: 2021-07-09
@@ -48,11 +36,7 @@
 - track: "City Girl"
   artist: "City Girl"
   scrobbles: 8
-  genres:
-    - type: lo-fi
-      playlist: "https://open.spotify.com/playlist/6YpGPZ2hN9dWl8YXGhYd8C?si=6a44b697c5ec405e"
-    - type: electronic
-      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=f865e7f43bf24d41"
+  genres: [lo-fi, electronic]
   lyric: ""
   highlight: "It feels like walking alone in a quiet city-scape"
   date: 2021-07-16
@@ -64,11 +48,7 @@
 - track: "beside you"
   artist: "keshi"
   scrobbles: 8
-  genres:
-    - type: rnb
-      playlist: https://open.spotify.com/playlist/52lR47kvI8TBfyMGEj2xkY?si=a28643018a83413f
-    - type: pop
-      playlist: https://open.spotify.com/playlist/6NCrHXdNcm7Sf1hgesp0xq?si=67ebe962794846f0
+  genres: [rnb, pop]
   lyric: "We got no interruptions and we both feelin' the vibe"
   highlight: "The 3 second bridge makes the song"
   date: 2021-07-23
@@ -80,11 +60,7 @@
 - track: "STAY"
   artist: "Kenny Gabriel"
   scrobbles: 7
-  genres:
-    - type: pop
-      playlist: "https://open.spotify.com/playlist/6NCrHXdNcm7Sf1hgesp0xq?si=aac1d286c89349e8"
-    - type: rnb
-      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+  genres: [pop, rnb]
   lyric: "You′re the only one I would fall for"
   highlight: "trap breakdowns and smooth vocals, a song of juxtapositions"
   date: 2021-07-30
@@ -96,11 +72,7 @@
 - track: "AURA"
   artist: "JUNNY"
   scrobbles: 8
-  genres:
-    - type: k-pop
-      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
-    - type: hip-hop
-      playlist: "https://open.spotify.com/playlist/1ecOHyAwXOIXcGUNVZihfG?si=ff0a39f8172144cf"
+  genres: [k-pop, hip-hop]
   lyric: "I feel like I'm wastin' time, Tryna find where you are"
   highlight: "string instrumentals and syncopation, amazing"
   date: 2021-08-06
@@ -112,13 +84,7 @@
 - track: "Sorbet"
   artist: "galdive"
   scrobbles: 10
-  genres:
-    - type: rnb
-      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
-    - type: electronic
-      playlist: "https://open.spotify.com/playlist/5akt96ocNyszTmES9VTUt3?si=f865e7f43bf24d41"
-    - type: alternative
-      playlist: "https://open.spotify.com/playlist/67oR5EbL2QPMlErBvGWRmx?si=bed909aaa12043b1"
+  genres: [rnb, electronic, alternative]
   lyric: "Together chasing waves, It's the day for you and I"
   highlight: "I am a simp for tanisha's voice"
   date: 2021-08-13
@@ -130,9 +96,7 @@
 - track: "Queendom"
   artist: "red velvet"
   scrobbles: 10
-  genres:
-    - type: k-pop
-      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+  genres: [k-pop]
   lyric: "Rainbow completed in all different colors"
   highlight: "Bright synths, a more mature take on color-pop"
   date: 2021-08-20
@@ -144,11 +108,7 @@
 - track: "beside you"
   artist: "keshi"
   scrobbles: 8
-  genres:
-    - type: rnb
-      playlist: https://open.spotify.com/playlist/52lR47kvI8TBfyMGEj2xkY?si=a28643018a83413f
-    - type: pop
-      playlist: https://open.spotify.com/playlist/6NCrHXdNcm7Sf1hgesp0xq?si=67ebe962794846f0
+  genres: [rnb, pop]
   lyric: "We got no interruptions and we both feelin' the vibe"
   highlight: "madeon's beats never dissapoint"
   date: 2021-08-27
@@ -160,11 +120,7 @@
 - track: "PLASTIC"
   artist: "sakehands"
   scrobbles: 6
-  genres:
-    - type: hip-hop
-      playlist: https://open.spotify.com/playlist/1ecOHyAwXOIXcGUNVZihfG?si=ff0a39f8172144cf
-    - type: rnb
-      playlist: https://open.spotify.com/playlist/52lR47kvI8TBfyMGEj2xkY?si=a28643018a83413f
+  genres: [hip-hop, rnb]
   lyric: "I ain’t got no ride, but I got that rhythm babe"
   highlight: "that beat hits"
   date: 2021-09-03
@@ -176,9 +132,7 @@
 - track: "STEREOTYPE"
   artist: "StayC"
   scrobbles: 11
-  genres:
-    - type: k-pop
-      playlist: "https://open.spotify.com/playlist/2cD5CU3vfinIhZ4RMrTEJf?si=98b8844a1c91416a"
+  genres: [k-pop]
   lyric: "I may seem flashy on the outside but I’m still afraid"
   highlight: "the last chorus with isa's voice hits different"
   date: 2021-09-10

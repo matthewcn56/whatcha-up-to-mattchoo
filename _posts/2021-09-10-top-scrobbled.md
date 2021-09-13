@@ -21,7 +21,7 @@ Analytics of my top songs, last updated: {{ site.data.top_scrobbled.last.week }}
 
 Check out my curated playlist under each song's genre as well for some good vibes.
 
-Word clouds were generated with [WordItOut](https://worditout.com/word-cloud/create)
+Word clouds were generated with [WordItOut](https://worditout.com/word-cloud/create).
 
 ## Full Weekly List
 

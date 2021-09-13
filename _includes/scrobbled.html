@@ -1,5 +1,4 @@
-{% assign text_list = '' %} {% for song in site.data.top_scrobbled reversed %}
-{% endfor %} {% for song in site.data.top_scrobbled reversed%}
+{% for song in site.data.top_scrobbled reversed%}
 <li class="scrobble">
   <div>{{ song.week }}</div>
   <div class="scrobble-title">
@@ -29,12 +28,17 @@
         <span>
           Genres: {% for genre in song.genres %}
           <a
-            href="{{ genre.playlist}}"
+            href="{% for genreObj in site.data.playlists %}
+                    {% if genreObj.genre == {{genre}} %}
+                      {{genreObj.playlist}}
+                      {% break %}
+                    {% endif %}
+                  {% endfor %}"
             target="_blank"
             rel="noreferrer noopener"
             class="small-hover-text scrobble-genre"
           >
-            <span>{{genre.type}}</span>
+            <span>{{genre}}</span>
           </a>
           {% endfor %}
         </span>
