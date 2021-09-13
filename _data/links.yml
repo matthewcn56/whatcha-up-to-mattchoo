@@ -7,3 +7,9 @@
 - name: Email
   link: mailto:matthewcn56@gmail.com
   icon: /assets/images/emailLight.svg
+- name: Strava
+  link: https://www.strava.com/athletes/90911676
+  icon: /assets/images/strava.svg
+- name: LastFM
+  link: https://www.last.fm/user/Mattchooachoo
+  icon: /assets/images/lastfm.svg

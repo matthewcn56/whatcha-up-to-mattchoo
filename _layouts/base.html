@@ -1,41 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" href="/assets/images/favicon.ico" />
-    <link rel="stylesheet" href="/assets/css/styles.css" />
-    <meta name="description" content="A collection of what’s happening in Mattchoo’s life right now, and whatever comes to his mind." />
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    {% include nav.html %} 
-    <div class="main-body">
-      {{ content }} 
-        {% for post in site.posts %}
-            <li class="post">
-              <span class="post-line">
-                <a  class = "hover-text post-title" href="{{post.url}}">{{ post.title }}</a>
-                <div> {{ post.date | date: '%B %d, %Y'}}</div>
-              </span>
-              <div>
-                {{ post.excerpt }}
-              </div>
-              <div>
-                  Tags: 
-                  {% for tag in post.tags %}
-                  <a href="{{ site.baseurl}}/{{ tag }}" class = "tag-link">
-                      <span class="tag-container hover-text">{{ tag }}</span>
-                  </a>
-                  {% endfor %}
-              </div>
-              <hr/>
-              
-            </li>
-        {% endfor %}
-      <hr></hr>
-      {% include footer.html %}
-    </div>
-  </body>
-</html>
+---
+layout: default
+---
+
+{{ content }} {% for post in site.posts %}
+<li class="post">
+  <span class="post-line">
+    <a class="hover-text post-title" href="{{post.url}}">{{ post.title }}</a>
+    <div>{{ post.date | date: '%B %d, %Y'}}</div>
+  </span>
+  <div>{{ post.excerpt }}</div>
+  <div>
+    Tags: {% for tag in post.tags %}
+    <a href="{{ site.baseurl}}/{{ tag }}" class="tag-link hover-text">
+      <span class="tag-container">{{ tag }}</span>
+    </a>
+    {% endfor %}
+  </div>
+  <hr />
+</li>
+{% endfor %}

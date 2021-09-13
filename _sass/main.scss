@@ -38,6 +38,8 @@ body {
 }
 .link-container {
   background-color: $main-color;
+  background-image: none;
+  transition: none;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -50,6 +52,9 @@ body {
   margin-right: 4px;
   border-radius: 4vw;
   color: white;
+  &:hover {
+    background-image: none;
+  }
 }
 
 .emphasized-text {
@@ -113,6 +118,8 @@ nav {
 .links-list {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .post {
@@ -146,17 +153,10 @@ a {
   @include linked(2.5px);
 }
 
-.tag-container {
-  background-color: $main-background;
-}
-
-.tag-container:hover {
-  background-color: $main-color;
-  color: $lighter-text;
-}
-
 .tag-link {
   text-decoration: none;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 footer {
