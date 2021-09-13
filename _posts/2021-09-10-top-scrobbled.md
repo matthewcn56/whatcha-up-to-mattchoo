@@ -7,21 +7,23 @@ permalink: /scrobbled-analytics/
 
 Analytics of my top songs, last updated: {{ site.data.top_scrobbled.last.week }}. Pulled from my [last.fm](https://www.last.fm/user/Mattchooachoo). (A scrobble is a listen)
 
-Most Prominent Genres:
+## Most Prominent Genres:
 
 ![genreCloud](/assets/images/song_data/genresCloud.png)
 
-Most Scrobbled Tracks:
+## Most Scrobbled Tracks:
 
 ![tracksCloud](/assets/images/song_data/tracksCloud.png)
 
-Lyrics Visualization:
+## Lyrics Visualization:
 
 ![lyricsCloud](/assets/images/song_data/lyricsCloud.png)
 
 Check out my curated playlist under each song's genre as well for some good vibes.
 
 Word clouds were generated with [WordItOut](https://worditout.com/word-cloud/create)
+
+## Full Weekly List
 
 {% include scrobbled.html %}
 
