@@ -1,4 +1,28 @@
 - date: 2021-09-10
   week: "Sep 3 - Sep 9, 2021"
   genres: ["rnb", "piano", "soul", "electronic", "pop"]
-  artists: ["City Girl", "DooPiano", "keshi", "StayC", "V.K"]
+  artists:
+    - name: "City Girl"
+      scrobbles: 27
+    - name: "DooPiano"
+      scrobbles: 25
+    - name: "Keshi"
+      scrobbles: 25
+    - name: "StayC"
+      scrobbles: 25
+    - name: "V.K"
+      scrobbles: 19
+- date: 2021-09-11
+  week: "Summer 2021"
+  genres: ["rnb", "electronic", "k-pop", "hip-hop", "pop"]
+  artists:
+    - name: "TWICE"
+      scrobbles: 649
+    - name: "City Girl"
+      scrobbles: 395
+    - name: "DooPiano"
+      scrobbles: 346
+    - name: "Keshi"
+      scrobbles: 211
+    - name: "IZONE"
+      scrobbles: 203
