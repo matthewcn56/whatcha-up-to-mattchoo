@@ -5,7 +5,7 @@ tags: entertainment quantified
 permalink: /scrobbled-analytics/
 ---
 
-Analytics of my top songs, last updated: {{ site.data.top_scrobbled.last.week }}. Pulled from my [last.fm](https://www.last.fm/user/Mattchooachoo). (A scrobble is a listen)
+Analytics of my top scrobbled song each week, last updated: {{ site.data.top_scrobbled.last.week }}. Pulled from my [last.fm](https://www.last.fm/user/Mattchooachoo). (A scrobble is a listen)
 
 ## Most Prominent Genres:
 
