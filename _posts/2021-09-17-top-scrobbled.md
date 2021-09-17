@@ -19,11 +19,11 @@ Analytics of my top scrobbled song each week, last updated: {{ site.data.top_scr
 
 ![lyricsCloud](/assets/images/song_data/lyricsCloud.png)
 
-Check out my curated playlist under each song's genre as well for some good vibes.
-
 Word clouds were generated with [WordItOut](https://worditout.com/word-cloud/create).
 
 ## Full Weekly List
+
+Check out my curated playlist under each song's genre as well for some good vibes.
 
 {% include scrobbled.html %}
 

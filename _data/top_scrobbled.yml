@@ -49,7 +49,7 @@
   artist: "keshi"
   scrobbles: 8
   genres: [rnb, pop]
-  lyric: "We got no interruptions and we both feelin' the vibe"
+  lyric: "We can talk about nothin' or we can see what it's like"
   highlight: "The 3 second bridge makes the song"
   date: 2021-07-23
   week: "Jul 16 - Jul 22, 2021"
@@ -140,3 +140,14 @@
   img: "stereotype.jpeg"
   song_link: "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd?si=4287f1266f2c4143"
   artist_link: "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0?si=eaVS9UcGTEacrjSW8Njr0g&dl_branch=1"
+- track: "Room For Two"
+  artist: "xiv"
+  scrobbles: 13
+  genres: [hip-hop, k-rnb]
+  lyric: "I don’t need a lot to come to your way"
+  highlight: "their voices mesh so well together, it's beautiful"
+  date: 2021-09-17
+  week: "Sep 10 - Sep 16, 2021"
+  img: "room-for-two.png"
+  song_link: https://open.spotify.com/track/77Q9doWepAc9rDYcX8gA4Q?si=0d79c28f15c84e8a
+  artist_link: https://open.spotify.com/artist/0BC9WOmR7fE1Z4nIUVXtcn?si=KZPQxezxQ1-Ye-V1QaNMuQ&dl_branch=1

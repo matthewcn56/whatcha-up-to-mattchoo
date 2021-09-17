@@ -2,7 +2,8 @@
 layout: default
 ---
 
-{{ content }} {% for post in site.posts %}
+{{ content }} 
+{% for post in site.posts %}
 <li class="post">
   <span class="post-line">
     <a class="hover-text post-title" href="{{post.url}}">{{ post.title }}</a>

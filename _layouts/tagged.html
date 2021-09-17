@@ -1,22 +1,28 @@
 ---
 layout: default
 ---
-
-{{ content }} {% for tag in site.tags %} {% if tag[0] == page.title %} {% for
-post in tag[1] %}
-<li class="post">
-  <span class="post-line">
-    <a class="hover-text post-title" href="{{post.url}}">{{ post.title }}</a>
-    <div>{{ post.date | date: '%B %d, %Y'}}</div>
-  </span>
-  <div>{{ post.excerpt }}</div>
-  <div>
-    Tags: {% for post-tag in post.tags %}
-    <a href="{{ site.baseurl}}/{{ post-tag }}" class="tag-link hover-text">
-      <span class="tag-container">{{ post-tag }}</span>
-    </a>
+{{ content }} 
+{% for tag in site.tags %}
+  {% if tag[0] == page.title %}
+    {% for post in tag[1] %}
+      <li class="post">
+        <span class = "post-line">
+          <a  class = "hover-text post-title" href="{{post.url}}">{{ post.title }}</a>
+          <div> {{ post.date | date: '%B %d, %Y'}}</div>
+        </span>
+        <div>
+          {{ post.excerpt }}
+        </div>
+        <div>
+            Tags: 
+            {% for post-tag in post.tags %}
+            <a href="{{ site.baseurl}}/{{ post-tag }}" class = "tag-link hover-text">
+                <span class="tag-container">{{ post-tag }}</span>
+            </a>
+            {% endfor %}
+        </div>
+        <hr/>         
+      </li>
     {% endfor %}
-  </div>
-  <hr />
-</li>
-{% endfor %} {% endif %} {% endfor %}
+  {% endif %}
+{% endfor %}

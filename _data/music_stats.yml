@@ -26,3 +26,17 @@
       scrobbles: 211
     - name: "IZONE"
       scrobbles: 203
+- date: 2021-09-17
+  week: "Sep 10 - Sep 16, 2021"
+  genres: ["piano", "rnb", "electronic", "instrumental", "k-pop"]
+  artists:
+    - name: "TWICE"
+      scrobbles: 48
+    - name: "DooPiano"
+      scrobbles: 44
+    - name: "City Girl"
+      scrobbles: 32
+    - name: "Keshi"
+      scrobbles: 28
+    - name: "StayC"
+      scrobbles: 19
