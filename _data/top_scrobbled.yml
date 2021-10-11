@@ -151,3 +151,36 @@
   img: "room-for-two.png"
   song_link: https://open.spotify.com/track/77Q9doWepAc9rDYcX8gA4Q?si=0d79c28f15c84e8a
   artist_link: https://open.spotify.com/artist/0BC9WOmR7fE1Z4nIUVXtcn?si=KZPQxezxQ1-Ye-V1QaNMuQ&dl_branch=1
+- track: "Feel Special"
+  artist: "TWICE"
+  scrobbles: 8
+  genres: [k-pop]
+  lyric: "Even when hurtful words stab me, I smile again cuz you’re there"
+  highlight: "This is the song that made me love TWICE's music."
+  date: 2021-09-24
+  week: "Sep 17 - Sep 23, 2021"
+  img: "feel-special.png"
+  song_link: https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9?si=d9e7aa2f48ac4a2a
+  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=8854EF_HTi6IUMaHEyjR8g&dl_branch=1
+- track: "on your mind"
+  artist: emi choi
+  scrobbles: 4
+  genres: [rnb, alternative]
+  lyric: "I'm kinda shy I don't look it, I saw the chance and I took it"
+  highlight: "Perfect mood music, one of my all-time faves"
+  date: 2021-10-01
+  week: Sep 24 - Sep 30, 2021
+  img: on-your-mind.jpg
+  song_link: https://open.spotify.com/track/2P2PRCC74zAFTtcmZCdoKM?si=c80af77fe2b74a49
+  artist_link: https://open.spotify.com/artist/7CBR3nH5wFYRbmNAuxZdcU?si=MYtB6d9XSTyTWe2Klt7lWA&dl_branch=1
+- track: "The Feels"
+  artist: "TWICE"
+  scrobbles: 8
+  genres: [pop, k-pop]
+  lyric: "I know love it is such a funny thing. A mystery allure, gotta get to know you more"
+  highlight: "mina's pre-chorus is sooo good"
+  date: 2021-10-08
+  week: "Oct 1 - Oct 7, 2021"
+  img: "the-feels.png"
+  song_link: https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY?si=296e992c8da74abe
+  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=DmwxbUR1Qu-rX9jRaEUXKQ&dl_branch=1
