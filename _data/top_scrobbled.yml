@@ -12,7 +12,7 @@
 - track: "Your voice so..."
   scrobbles: 7
   artist: "PSYQUI"
-  genres: [j-pop, dubstep]
+  genres: [j-pop, dubstep, color-pop]
   lyric: "you take me high"
   highlight: "future bass and dnb perfection"
   date: 2021-07-02
@@ -96,7 +96,7 @@
 - track: "Queendom"
   artist: "red velvet"
   scrobbles: 10
-  genres: [k-pop]
+  genres: [k-pop, color-pop]
   lyric: "Rainbow completed in all different colors"
   highlight: "Bright synths, a more mature take on color-pop"
   date: 2021-08-20
@@ -176,7 +176,7 @@
 - track: "The Feels"
   artist: "TWICE"
   scrobbles: 8
-  genres: [pop, k-pop]
+  genres: [pop, k-pop, color-pop]
   lyric: "I know love it is such a funny thing. A mystery allure, gotta get to know you more"
   highlight: "mina's pre-chorus is sooo good"
   date: 2021-10-08
@@ -184,3 +184,135 @@
   img: "the-feels.png"
   song_link: https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY?si=296e992c8da74abe
   artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=DmwxbUR1Qu-rX9jRaEUXKQ&dl_branch=1
+- track: "shelter"
+  artist: "hakaisu"
+  scrobbles: 6
+  genres: [lo-fi, electronic]
+  lyric: "I could never find the right way to tell you"
+  highlight: "lo-fi version of a weeb banger"
+  date: 2021-10-15
+  week: "Oct 8 - Oct 14, 2021"
+  img: "shelter.jpeg"
+  song_link: https://open.spotify.com/track/0n0Tc0pdFbVovKGTnjttfn?si=dd6276d962d94f0e
+  artist_link: https://open.spotify.com/artist/2Tra5F2yPKz7EoGTWxXcx8?si=c00xEIllQviBijnYpAwXAw
+- track: "One Hundred & Two"
+  artist: "Barret Marshall"
+  scrobbles: 7
+  genres: [retro, pop]
+  lyric: "I could never find the right way to tell you"
+  highlight: "lo-fi version of a weeb banger"
+  date: 2021-10-22
+  week: "Oct 15 - Oct 21, 2021"
+  img: "hundred-two.jpeg"
+  song_link: https://open.spotify.com/track/5gppv4reKPtycRZiFmg6sQ?si=46ae6d58d81847e6
+  artist_link: https://open.spotify.com/artist/2rBCSdoqQiAtqTxx67w78Z?si=wNLeK3AhRh-JnUq_zQZUsg
+- track: "PLASTIC"
+  artist: "sakehands"
+  scrobbles: 8
+  genres: [hip-hop, rnb]
+  lyric: "I ain’t got no ride, but I got that rhythm babe"
+  highlight: "that beat hits"
+  date: 2021-10-29
+  week: "Oct 22 - Oct 28, 2021"
+  img: "plastic.png"
+  song_link: "https://open.spotify.com/track/6ZydkZ1ZuVuUCYj1YrWYXV?si=f864eebd17684731"
+  artist_link: "https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D?si=gUAWjLkxRt2e35gPvD7RSQ&dl_branch=1"
+- track: "who do you love"
+  artist: "MICO"
+  scrobbles: 5
+  genres: [rnb, hip-hop]
+  lyric: "why do you long for love"
+  highlight: "simp for groovy beats as usual"
+  date: 2021-11-05
+  week: "Oct 29 - Nov 4, 2021"
+  img: "who-do-you-love.jpg"
+  song_link: "https://open.spotify.com/track/3RET6JiPnPh3CzKYDVAydk?si=d544a620198e4910"
+  artist_link: https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG?si=bTcY5tYMR8C68KQF_2VsyQ
+- track: "who do you love"
+  artist: "MICO"
+  scrobbles: 5
+  genres: [rnb, hip-hop]
+  lyric: "why do you long for love"
+  highlight: "simp for groovy beats as usual"
+  date: 2021-11-05
+  week: "Oct 29 - Nov 4, 2021"
+  img: "who-do-you-love.jpg"
+  song_link: "https://open.spotify.com/track/3RET6JiPnPh3CzKYDVAydk?si=d544a620198e4910"
+  artist_link: https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG?si=bTcY5tYMR8C68KQF_2VsyQ
+- track: Chopstick
+  artist: "NiziU"
+  scrobbles: 4
+  genres: [j-pop, color-pop]
+  lyric: "Speakers without music are meaningless, a phone with no battery has no use"
+  highlight: "Rima is a rapping queen"
+  date: 2021-11-12
+  week: "Nov 5 - Nov 11, 2021"
+  img: "chopstick.jpeg"
+  song_link: https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl?si=bc53bae722ee45e3
+  artist_link: https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ?si=cC9MLlO6TyOGPdZ36usiZQ
+- track: "ICON"
+  artist: "TWICE"
+  scrobbles: 11
+  genres: [k-pop, hip-hop]
+  lyric: "I ain't seeing no lies, look here, I'm the highlight"
+  highlight: "chaeyoung has bars for days"
+  date: 2021-11-19
+  week: "Nov 12 - Nov 18, 2021"
+  img: "icon.jpeg"
+  song_link: https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB?si=336ba3c5eaad4bc1
+  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=M9B0vb-dTKGwcZZdqQinDQ
+- track: "Can We Kiss Forever?"
+  artist: "Kina"
+  scrobbles: 8
+  genres: [lo-fi, electronic]
+  lyric: "I crossed the ocean of my mind, My wounds are healing with the salt"
+  highlight: "perfect for driving in the rain"
+  date: 2021-11-26
+  week: "Nov 19 - Nov 25, 2021"
+  img: "can-we.jpeg"
+  song_link: https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne?si=04b965a86e084d02
+  artist_link: https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF?si=veI43w3tQIiU3Fl8xQykgQ
+- track: "Golden"
+  artist: "Hippo Campus"
+  scrobbles: 5
+  genres: [pop-rock]
+  lyric: "Maybe I'm sick of sleeping longer nights with lesser feelings"
+  highlight: "hippo campus engages my hippocampus"
+  date: 2021-12-03
+  week: "Nov 26 - Dec 2, 2021"
+  img: "golden.jpeg"
+  song_link: https://open.spotify.com/track/4vBIr27NcRFBNpyIxLHZuB?si=fbadd94e3564410b
+  artist-link: https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A?si=zHuofbejS1uMIIVY7gs0eQ
+- track: "Can We Kiss Forever?"
+  artist: "Kina"
+  scrobbles: 10
+  genres: [lo-fi, electronic]
+  lyric: "I crossed the ocean of my mind, My wounds are healing with the salt"
+  highlight: "perfect for driving in the rain"
+  date: 2021-12-10
+  week: "Dec 3 - Dec 9, 2021"
+  img: "can-we.jpeg"
+  song_link: https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne?si=04b965a86e084d02
+  artist_link: https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF?si=veI43w3tQIiU3Fl8xQykgQ
+- track: "IF I DON'T TEXT YOU FIRST"
+  artist: "Tiffany Day"
+  scrobbles: 7
+  genres: [rnb, hip-hop]
+  lyric: "Fuck it, you just freak out, playing with my feelings"
+  highlight: "groove for days"
+  date: 2021-12-17
+  week: "Dec 10 - Dec 16, 2021"
+  img: "if-i-dont.jpeg"
+  song_link: https://open.spotify.com/track/2lNb0SzyOEHizMxlpT9HM6?si=01b390bc94434715
+  artist_link: https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu?si=YjmtPBRTQ-Km0t4N5LDnvw
+- track: "What Is Love"
+  artist: TWICE
+  scrobbles: 5
+  genres: [k-pop, color-pop]
+  lyric: "they say it’s sweet like candy, they say it feels like flying"
+  highlight: "infectious chorus, deserved soty 2018"
+  date: 2021-12-24
+  week: "Dec 17 - Dec 23, 2021"
+  img: "what-is-love.jpeg"
+  song_link: https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y?si=3415bdff6e504cad
+  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=yojAcTv2SFmZwugSfVq69Q

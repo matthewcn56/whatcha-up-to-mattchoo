@@ -5,7 +5,7 @@ tags: entertainment quantified
 permalink: /scrobbled-analytics/
 ---
 
-Analytics of my top scrobbled song each week, last updated: {{ site.data.top_scrobbled.last.week }}. Pulled from my [last.fm](https://www.last.fm/user/Mattchooachoo). (A scrobble is a listen)
+Analytics of my most listened to song each week, last updated: {{ site.data.top_scrobbled.last.week }}. Pulled from my [last.fm](https://www.last.fm/user/Mattchooachoo). (A scrobble is a listen)
 
 ## Most Prominent Genres:
 
@@ -25,6 +25,6 @@ Word clouds were generated with [WordItOut](https://worditout.com/word-cloud/cre
 
 Check out my curated playlist under each song's genre as well for some good vibes.
 
-{% include scrobbled.html %}
+While you're here, you can add me on [Spotify](https://open.spotify.com/user/a17r0su593wsblcb84y8n5hxc?si=95e7f1a622544955).
 
-Wow, I can't believe you scrolled to the bottom. While you're here, add me on [Spotify](https://open.spotify.com/user/a17r0su593wsblcb84y8n5hxc?si=95e7f1a622544955)
+{% include scrobbled.html %}
