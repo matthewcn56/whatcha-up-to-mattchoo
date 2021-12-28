@@ -1,5 +1,11 @@
+{% assign year = site.data.top_scrobbled.last.date | date: "%y" %}
 {% for song in site.data.top_scrobbled reversed%}
 <li class="scrobble">
+  {% assign curr_year = song.date | date: "%Y" %}
+  {% if curr_year != year%}
+    <div class = "scrobble-date-header">{{ curr_year }}</div>
+    {% assign year = curr_year%}
+  {% endif %}
   <div>{{ song.week }}</div>
   <div class="scrobble-title">
     <a
