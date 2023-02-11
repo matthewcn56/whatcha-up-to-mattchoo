@@ -3,11 +3,11 @@ $main-background: #fdeeee;
 $lighter-gradient: rgb(218, 142, 142);
 $lighter-text: #dfdfdf;
 $post-background: #faa7a7;
+$quote-background: #f8d5d5;
 
 @font-face {
   font-family: "Glacial Indifference";
-  src: url("/assets/glacial-indifference/GlacialIndifference-Regular.otf")
-    format("opentype");
+  src: url("/assets/glacial-indifference/GlacialIndifference-Regular.otf") format("opentype");
 }
 
 @mixin linked($line-size: 2.5px) {
@@ -17,6 +17,7 @@ $post-background: #faa7a7;
   background-size: 100% $line-size;
   transition: all 750ms ease;
   background-repeat: no-repeat;
+
   &:hover,
   &:active {
     background-size: 100% 100%;
@@ -36,6 +37,7 @@ body {
   align-items: center;
   align-content: center;
 }
+
 .link-container {
   background-color: $main-color;
   background-image: none;
@@ -52,6 +54,7 @@ body {
   margin-right: 4px;
   border-radius: 4vw;
   color: white;
+
   &:hover {
     background-image: none;
   }
@@ -207,9 +210,14 @@ li {
   width: 60%;
   font-size: 25px;
 }
+
 .scrobbled-img {
   width: 120px;
   height: 120px;
+}
+
+.hammock-img {
+  width: 420px;
 }
 
 .scrobble-title {
@@ -255,4 +263,35 @@ strong {
 
 td {
   padding: 0 50px 0 0;
+}
+
+blockquote {
+  background: $quote-background;
+  border-left: 10px solid $main-color;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C" "\201D" "\2018" "\2019";
+}
+
+.speaker {
+  color: $main-color;
+  font-weight: 900;
+  font-size: 28px;
+}
+
+blockquote:before {
+  color: $main-color;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote:after {
+  content: no-close-quote;
+}
+
+blockquote p {
+  display: inline;
 }

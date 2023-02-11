@@ -1,0 +1,14 @@
+k-pop:150
+rnb:115
+electronic:101
+hip-hop:86
+pop:58
+k-rnb:47
+lo-fi:47
+alternative:43
+color-pop:34
+j-pop:23
+piano:8
+retro:7
+dubstep:7
+pop-rock:5

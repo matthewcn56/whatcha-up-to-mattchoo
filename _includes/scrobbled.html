@@ -6,7 +6,7 @@
     <div class = "scrobble-date-header">{{ curr_year }}</div>
     {% assign year = curr_year%}
   {% endif %}
-  <div>{{ song.week }}</div>
+  <div>{{song.date | date: "%s" | minus : 450800 | date: "%B %-d" | uri_encode | replace:"+","%20"}} - {{ song.date | date: "%B %-d"  }}</div>
   <div class="scrobble-title">
     <a
       href="{{ song.song_link}}"

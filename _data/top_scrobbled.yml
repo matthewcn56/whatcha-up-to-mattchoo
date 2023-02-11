@@ -1,307 +1,708 @@
-- track: "L2M"
-  artist: "City Girl"
+- track: L2M
+  artist: City Girl
   scrobbles: 9
-  genres: [hip-hop, electronic]
-  lyric: "Baby you should come on over, we could see it through"
-  highlight: "great flow, synth hits. the production is superb"
-  date: 2021-06-24
-  img: "l2m.png"
-  week: "Jun 17 - Jun 23, 2021"
-  song_link: "https://open.spotify.com/track/3u5jgQDJvPoMPpRrbjEqPz?si=8534806db37c4528"
-  artist_link: "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ?si=Un8xgEY_TM-0GySSw77B4Q&dl_branch=1"
-- track: "Your voice so..."
+  genres:
+    - hip-hop
+    - electronic
+  lyric: Baby you should come on over, we could see it through
+  highlight: great flow, synth hits. the production is superb
+  date: 2021-06-24T00:00:00.000Z
+  img: l2m.png
+  week: Jun 17 - Jun 23, 2021
+  song_link: https://open.spotify.com/track/3u5jgQDJvPoMPpRrbjEqPz?si=8534806db37c4528
+  artist_link: >-
+    https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ?si=Un8xgEY_TM-0GySSw77B4Q&dl_branch=1
+- track: Your voice so...
   scrobbles: 7
-  artist: "PSYQUI"
-  genres: [j-pop, dubstep, color-pop]
-  lyric: "you take me high"
-  highlight: "future bass and dnb perfection"
-  date: 2021-07-02
-  img: "your-voice-so.png"
-  week: "Jun 25 - Jul 1, 2021"
-  song_link: "https://open.spotify.com/track/0Hy9VPPf6qSN1Iku4Doxsv?si=058a3e1404d84832"
-  artist_link: "https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl?si=a9fukWRVSjeZiQ5wvq9KVg&dl_branch=1"
-
-- track: "no more zero days"
-  artist: "albie"
+  artist: PSYQUI
+  genres:
+    - j-pop
+    - dubstep
+    - color-pop
+  lyric: you take me high
+  highlight: future bass and dnb perfection
+  date: 2021-07-02T00:00:00.000Z
+  img: your-voice-so.png
+  week: Jun 25 - Jul 1, 2021
+  song_link: https://open.spotify.com/track/0Hy9VPPf6qSN1Iku4Doxsv?si=058a3e1404d84832
+  artist_link: >-
+    https://open.spotify.com/artist/3p8H8HTn04KXh2NRzhKScl?si=a9fukWRVSjeZiQ5wvq9KVg&dl_branch=1
+- track: no more zero days
+  artist: albie
   scrobbles: 11
-  genres: [lo-fi, electronic]
+  genres:
+    - lo-fi
+    - electronic
   lyric: ""
-  highlight: "repetition of the main motif reinforces the theme of building habits to avoid zero days!"
-  date: 2021-07-09
-  img: "no-more-zero-days.png"
-  week: "Jul 2 - Jul 8, 2021"
-  song_link: "https://open.spotify.com/track/6tdU8gd5vvabEyvCKVQo4s?si=2e31caaa8e7749dc"
-  artist_link: "https://open.spotify.com/artist/3A8eU5YgR9Ntz1C5XBKKaU?si=1n49_dxTQwCYM3_fKzAcWw&dl_branch=1"
-
-- track: "City Girl"
-  artist: "City Girl"
+  highlight: >-
+    repetition of the main motif reinforces the theme of building habits to
+    avoid zero days!
+  date: 2021-07-09T00:00:00.000Z
+  img: no-more-zero-days.png
+  week: Jul 2 - Jul 8, 2021
+  song_link: https://open.spotify.com/track/6tdU8gd5vvabEyvCKVQo4s?si=2e31caaa8e7749dc
+  artist_link: >-
+    https://open.spotify.com/artist/3A8eU5YgR9Ntz1C5XBKKaU?si=1n49_dxTQwCYM3_fKzAcWw&dl_branch=1
+- track: City Girl
+  artist: City Girl
   scrobbles: 8
-  genres: [lo-fi, electronic]
+  genres:
+    - lo-fi
+    - electronic
   lyric: ""
-  highlight: "It feels like walking alone in a quiet city-scape"
-  date: 2021-07-16
-  week: "Jul 9 - Jul 15, 2021"
-  img: "city-girl.png"
-  song_link: "https://open.spotify.com/track/5nEmOAtwk043VtpLQXWAQi?si=a43ea99da3324377"
-  artist_link: "https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ?si=qZQw54aLRoyv7eOpxG_UWA&dl_branch=1"
-
-- track: "beside you"
-  artist: "keshi"
+  highlight: It feels like walking alone in a quiet city-scape
+  date: 2021-07-16T00:00:00.000Z
+  week: Jul 9 - Jul 15, 2021
+  img: city-girl.png
+  song_link: https://open.spotify.com/track/5nEmOAtwk043VtpLQXWAQi?si=a43ea99da3324377
+  artist_link: >-
+    https://open.spotify.com/artist/6yby1ACnfwVigbSSaH3kEQ?si=qZQw54aLRoyv7eOpxG_UWA&dl_branch=1
+- track: beside you
+  artist: keshi
   scrobbles: 8
-  genres: [rnb, pop]
-  lyric: "We can talk about nothin' or we can see what it's like"
-  highlight: "The 3 second bridge makes the song"
-  date: 2021-07-23
-  week: "Jul 16 - Jul 22, 2021"
-  img: "beside-you.jpg"
-  song_link: "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe?si=c41678c13ed644f0"
-  artist_link: "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=XDQEvTQDRFuyBP9htywnfw&dl_branch=1"
-
-- track: "STAY"
-  artist: "Kenny Gabriel"
+  genres:
+    - rnb
+    - pop
+  lyric: We can talk about nothin' or we can see what it's like
+  highlight: The 3 second bridge makes the song
+  date: 2021-07-23T00:00:00.000Z
+  week: Jul 16 - Jul 22, 2021
+  img: beside-you.jpg
+  song_link: https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe?si=c41678c13ed644f0
+  artist_link: >-
+    https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=XDQEvTQDRFuyBP9htywnfw&dl_branch=1
+- track: STAY
+  artist: Kenny Gabriel
   scrobbles: 7
-  genres: [pop, rnb]
-  lyric: "You′re the only one I would fall for"
-  highlight: "trap breakdowns and smooth vocals, a song of juxtapositions"
-  date: 2021-07-30
-  week: "Jul 23 - Jul 29, 2021"
-  img: "stay.png"
-  song_link: "https://open.spotify.com/track/453LUWCXecCS234CYjtnoL?si=b0d314f83eb8419a"
-  artist_link: "https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu?si=j4eX0XrXRaqGXVJtpp23Dg&dl_branch=1"
-
-- track: "AURA"
-  artist: "JUNNY"
+  genres:
+    - pop
+    - rnb
+  lyric: You′re the only one I would fall for
+  highlight: trap breakdowns and smooth vocals, a song of juxtapositions
+  date: 2021-07-30T00:00:00.000Z
+  week: Jul 23 - Jul 29, 2021
+  img: stay.png
+  song_link: https://open.spotify.com/track/453LUWCXecCS234CYjtnoL?si=b0d314f83eb8419a
+  artist_link: >-
+    https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu?si=j4eX0XrXRaqGXVJtpp23Dg&dl_branch=1
+- track: AURA
+  artist: JUNNY
   scrobbles: 8
-  genres: [k-pop, hip-hop]
-  lyric: "I feel like I'm wastin' time, Tryna find where you are"
-  highlight: "string instrumentals and syncopation, amazing"
-  date: 2021-08-06
-  week: "Jul 30 - Aug 5, 2021"
-  img: "aura.png"
-  song_link: "https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34?si=f524dc0271fd4313"
-  artist_link: "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr?si=srbhU2LEQ-maOk_mAc6LyA&dl_branch=1"
-
-- track: "Sorbet"
-  artist: "galdive"
+  genres:
+    - k-pop
+    - hip-hop
+  lyric: I feel like I'm wastin' time, Tryna find where you are
+  highlight: string instrumentals and syncopation, amazing
+  date: 2021-08-06T00:00:00.000Z
+  week: Jul 30 - Aug 5, 2021
+  img: aura.png
+  song_link: https://open.spotify.com/track/6dQ4nj3aDaw7WWlI7Rbj34?si=f524dc0271fd4313
+  artist_link: >-
+    https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr?si=srbhU2LEQ-maOk_mAc6LyA&dl_branch=1
+- track: Sorbet
+  artist: galdive
   scrobbles: 10
-  genres: [rnb, electronic, alternative]
-  lyric: "Together chasing waves, It's the day for you and I"
-  highlight: "I am a simp for tanisha's voice"
-  date: 2021-08-13
-  week: "Aug 6 - Aug 12, 2021"
-  img: "sorbet.png"
-  song_link: "https://open.spotify.com/track/4LHGY9MUZUUUfUGaZ6nQwu?si=c4dbc5a9742048d8"
-  artist_link: "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT?si=S7tW5pBPRkCfqpA8Qq4NUw&dl_branch=1"
-
-- track: "Queendom"
-  artist: "red velvet"
+  genres:
+    - rnb
+    - electronic
+    - alternative
+  lyric: Together chasing waves, It's the day for you and I
+  highlight: I am a simp for tanisha's voice
+  date: 2021-08-13T00:00:00.000Z
+  week: Aug 6 - Aug 12, 2021
+  img: sorbet.png
+  song_link: https://open.spotify.com/track/4LHGY9MUZUUUfUGaZ6nQwu?si=c4dbc5a9742048d8
+  artist_link: >-
+    https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT?si=S7tW5pBPRkCfqpA8Qq4NUw&dl_branch=1
+- track: Queendom
+  artist: red velvet
   scrobbles: 10
-  genres: [k-pop, color-pop]
-  lyric: "Rainbow completed in all different colors"
-  highlight: "Bright synths, a more mature take on color-pop"
-  date: 2021-08-20
-  week: "Aug 13 - Aug 19, 2021"
-  img: "queendom.png"
-  song_link: "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ?si=0805802e9c8e4a38"
-  artist_link: "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM?si=4d1tJ1BVSMyXcLFWgjNsfQ&dl_branch=1"
-
-- track: "beside you"
-  artist: "keshi"
+  genres:
+    - k-pop
+    - color-pop
+  lyric: Rainbow completed in all different colors
+  highlight: Bright synths, a more mature take on color-pop
+  date: 2021-08-20T00:00:00.000Z
+  week: Aug 13 - Aug 19, 2021
+  img: queendom.png
+  song_link: https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ?si=0805802e9c8e4a38
+  artist_link: >-
+    https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM?si=4d1tJ1BVSMyXcLFWgjNsfQ&dl_branch=1
+- track: beside you
+  artist: keshi
   scrobbles: 8
-  genres: [rnb, pop]
-  lyric: "We got no interruptions and we both feelin' the vibe"
-  highlight: "madeon's beats never dissapoint"
-  date: 2021-08-27
-  week: "Aug 20 - Aug 26, 2021"
-  img: "beside-you.jpg"
-  song_link: "https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe?si=c41678c13ed644f0"
-  artist_link: "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=XDQEvTQDRFuyBP9htywnfw&dl_branch=1"
-
-- track: "PLASTIC"
-  artist: "sakehands"
+  genres:
+    - rnb
+    - pop
+  lyric: We got no interruptions and we both feelin' the vibe
+  highlight: madeon's beats never dissapoint
+  date: 2021-08-27T00:00:00.000Z
+  week: Aug 20 - Aug 26, 2021
+  img: beside-you.jpg
+  song_link: https://open.spotify.com/track/1Fhb9iJPufNMZSwupsXiRe?si=c41678c13ed644f0
+  artist_link: >-
+    https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO?si=XDQEvTQDRFuyBP9htywnfw&dl_branch=1
+- track: PLASTIC
+  artist: sakehands
   scrobbles: 6
-  genres: [hip-hop, rnb]
-  lyric: "I ain’t got no ride, but I got that rhythm babe"
-  highlight: "that beat hits"
-  date: 2021-09-03
-  week: "Aug 27 - Sep 2, 2021"
-  img: "plastic.png"
-  song_link: "https://open.spotify.com/track/6ZydkZ1ZuVuUCYj1YrWYXV?si=f864eebd17684731"
-  artist_link: "https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D?si=gUAWjLkxRt2e35gPvD7RSQ&dl_branch=1"
-
-- track: "STEREOTYPE"
-  artist: "StayC"
+  genres:
+    - hip-hop
+    - rnb
+  lyric: I ain’t got no ride, but I got that rhythm babe
+  highlight: that beat hits
+  date: 2021-09-03T00:00:00.000Z
+  week: Aug 27 - Sep 2, 2021
+  img: plastic.png
+  song_link: https://open.spotify.com/track/6ZydkZ1ZuVuUCYj1YrWYXV?si=f864eebd17684731
+  artist_link: >-
+    https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D?si=gUAWjLkxRt2e35gPvD7RSQ&dl_branch=1
+- track: STEREOTYPE
+  artist: StayC
   scrobbles: 11
-  genres: [k-pop]
-  lyric: "I may seem flashy on the outside but I’m still afraid"
-  highlight: "the last chorus with isa's voice hits different"
-  date: 2021-09-10
-  week: "Sep 3 - Sep 9, 2021"
-  img: "stereotype.jpeg"
-  song_link: "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd?si=4287f1266f2c4143"
-  artist_link: "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0?si=eaVS9UcGTEacrjSW8Njr0g&dl_branch=1"
-- track: "Room For Two"
-  artist: "xiv"
+  genres:
+    - k-pop
+  lyric: I may seem flashy on the outside but I’m still afraid
+  highlight: the last chorus with isa's voice hits different
+  date: 2021-09-10T00:00:00.000Z
+  week: Sep 3 - Sep 9, 2021
+  img: stereotype.jpeg
+  song_link: https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd?si=4287f1266f2c4143
+  artist_link: >-
+    https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0?si=eaVS9UcGTEacrjSW8Njr0g&dl_branch=1
+- track: Room For Two
+  artist: xiv
   scrobbles: 13
-  genres: [hip-hop, k-rnb]
-  lyric: "I don’t need a lot to come to your way"
-  highlight: "their voices mesh so well together, it's beautiful"
-  date: 2021-09-17
-  week: "Sep 10 - Sep 16, 2021"
-  img: "room-for-two.png"
+  genres:
+    - hip-hop
+    - k-rnb
+  lyric: I don’t need a lot to come to your way
+  highlight: their voices mesh so well together, it's beautiful
+  date: 2021-09-17T00:00:00.000Z
+  week: Sep 10 - Sep 16, 2021
+  img: room-for-two.png
   song_link: https://open.spotify.com/track/77Q9doWepAc9rDYcX8gA4Q?si=0d79c28f15c84e8a
-  artist_link: https://open.spotify.com/artist/0BC9WOmR7fE1Z4nIUVXtcn?si=KZPQxezxQ1-Ye-V1QaNMuQ&dl_branch=1
-- track: "Feel Special"
-  artist: "TWICE"
+  artist_link: >-
+    https://open.spotify.com/artist/0BC9WOmR7fE1Z4nIUVXtcn?si=KZPQxezxQ1-Ye-V1QaNMuQ&dl_branch=1
+- track: Feel Special
+  artist: TWICE
   scrobbles: 8
-  genres: [k-pop]
-  lyric: "Even when hurtful words stab me, I smile again cuz you’re there"
-  highlight: "This is the song that made me love TWICE's music."
-  date: 2021-09-24
-  week: "Sep 17 - Sep 23, 2021"
-  img: "feel-special.png"
+  genres:
+    - k-pop
+  lyric: Even when hurtful words stab me, I smile again cuz you’re there
+  highlight: This is the song that made me love TWICE's music.
+  date: 2021-09-24T00:00:00.000Z
+  week: Sep 17 - Sep 23, 2021
+  img: feel-special.png
   song_link: https://open.spotify.com/track/3Hz3tTQwOdM6XkA0ALB2G9?si=d9e7aa2f48ac4a2a
-  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=8854EF_HTi6IUMaHEyjR8g&dl_branch=1
-- track: "on your mind"
+  artist_link: >-
+    https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=8854EF_HTi6IUMaHEyjR8g&dl_branch=1
+- track: on your mind
   artist: emi choi
   scrobbles: 4
-  genres: [rnb, alternative]
-  lyric: "I'm kinda shy I don't look it, I saw the chance and I took it"
-  highlight: "Perfect mood music, one of my all-time faves"
-  date: 2021-10-01
+  genres:
+    - rnb
+    - alternative
+  lyric: I'm kinda shy I don't look it, I saw the chance and I took it
+  highlight: Perfect mood music, one of my all-time faves
+  date: 2021-10-01T00:00:00.000Z
   week: Sep 24 - Sep 30, 2021
   img: on-your-mind.jpg
   song_link: https://open.spotify.com/track/2P2PRCC74zAFTtcmZCdoKM?si=c80af77fe2b74a49
-  artist_link: https://open.spotify.com/artist/7CBR3nH5wFYRbmNAuxZdcU?si=MYtB6d9XSTyTWe2Klt7lWA&dl_branch=1
-- track: "The Feels"
-  artist: "TWICE"
+  artist_link: >-
+    https://open.spotify.com/artist/7CBR3nH5wFYRbmNAuxZdcU?si=MYtB6d9XSTyTWe2Klt7lWA&dl_branch=1
+- track: The Feels
+  artist: TWICE
   scrobbles: 8
-  genres: [pop, k-pop, color-pop]
-  lyric: "I know love it is such a funny thing. A mystery allure, gotta get to know you more"
-  highlight: "mina's pre-chorus is sooo good"
-  date: 2021-10-08
-  week: "Oct 1 - Oct 7, 2021"
-  img: "the-feels.png"
+  genres:
+    - pop
+    - k-pop
+    - color-pop
+  lyric: >-
+    I know love it is such a funny thing. A mystery allure, gotta get to know
+    you more
+  highlight: mina's pre-chorus is sooo good
+  date: 2021-10-08T00:00:00.000Z
+  week: Oct 1 - Oct 7, 2021
+  img: the-feels.png
   song_link: https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY?si=296e992c8da74abe
-  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=DmwxbUR1Qu-rX9jRaEUXKQ&dl_branch=1
-- track: "shelter"
-  artist: "hakaisu"
+  artist_link: >-
+    https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=DmwxbUR1Qu-rX9jRaEUXKQ&dl_branch=1
+- track: shelter
+  artist: hakaisu
   scrobbles: 6
-  genres: [lo-fi, electronic]
-  lyric: "I could never find the right way to tell you"
-  highlight: "lo-fi version of a weeb banger"
-  date: 2021-10-15
-  week: "Oct 8 - Oct 14, 2021"
-  img: "shelter.jpeg"
+  genres:
+    - lo-fi
+    - electronic
+  lyric: I could never find the right way to tell you
+  highlight: lo-fi version of a weeb banger
+  date: 2021-10-15T00:00:00.000Z
+  week: Oct 8 - Oct 14, 2021
+  img: shelter.jpeg
   song_link: https://open.spotify.com/track/0n0Tc0pdFbVovKGTnjttfn?si=dd6276d962d94f0e
-  artist_link: https://open.spotify.com/artist/2Tra5F2yPKz7EoGTWxXcx8?si=c00xEIllQviBijnYpAwXAw
-- track: "One Hundred & Two"
-  artist: "Barret Marshall"
+  artist_link: >-
+    https://open.spotify.com/artist/2Tra5F2yPKz7EoGTWxXcx8?si=c00xEIllQviBijnYpAwXAw
+- track: One Hundred & Two
+  artist: Barret Marshall
   scrobbles: 7
-  genres: [retro, pop]
-  lyric: "I could never find the right way to tell you"
-  highlight: "lo-fi version of a weeb banger"
-  date: 2021-10-22
-  week: "Oct 15 - Oct 21, 2021"
-  img: "hundred-two.jpeg"
+  genres:
+    - retro
+    - pop
+  lyric: I could never find the right way to tell you
+  highlight: lo-fi version of a weeb banger
+  date: 2021-10-22T00:00:00.000Z
+  week: Oct 15 - Oct 21, 2021
+  img: hundred-two.jpeg
   song_link: https://open.spotify.com/track/5gppv4reKPtycRZiFmg6sQ?si=46ae6d58d81847e6
-  artist_link: https://open.spotify.com/artist/2rBCSdoqQiAtqTxx67w78Z?si=wNLeK3AhRh-JnUq_zQZUsg
-- track: "PLASTIC"
-  artist: "sakehands"
+  artist_link: >-
+    https://open.spotify.com/artist/2rBCSdoqQiAtqTxx67w78Z?si=wNLeK3AhRh-JnUq_zQZUsg
+- track: PLASTIC
+  artist: sakehands
   scrobbles: 8
-  genres: [hip-hop, rnb]
-  lyric: "I ain’t got no ride, but I got that rhythm babe"
-  highlight: "that beat hits"
-  date: 2021-10-29
-  week: "Oct 22 - Oct 28, 2021"
-  img: "plastic.png"
-  song_link: "https://open.spotify.com/track/6ZydkZ1ZuVuUCYj1YrWYXV?si=f864eebd17684731"
-  artist_link: "https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D?si=gUAWjLkxRt2e35gPvD7RSQ&dl_branch=1"
-- track: "who do you love"
-  artist: "MICO"
+  genres:
+    - hip-hop
+    - rnb
+  lyric: I ain’t got no ride, but I got that rhythm babe
+  highlight: that beat hits
+  date: 2021-10-29T00:00:00.000Z
+  week: Oct 22 - Oct 28, 2021
+  img: plastic.png
+  song_link: https://open.spotify.com/track/6ZydkZ1ZuVuUCYj1YrWYXV?si=f864eebd17684731
+  artist_link: >-
+    https://open.spotify.com/artist/1GNuumO9mu72hz4nwjEa9D?si=gUAWjLkxRt2e35gPvD7RSQ&dl_branch=1
+- track: who do you love
+  artist: MICO
   scrobbles: 5
-  genres: [rnb, hip-hop]
-  lyric: "why do you long for love"
-  highlight: "simp for groovy beats as usual"
-  date: 2021-11-05
-  week: "Oct 29 - Nov 4, 2021"
-  img: "who-do-you-love.jpg"
-  song_link: "https://open.spotify.com/track/3RET6JiPnPh3CzKYDVAydk?si=d544a620198e4910"
-  artist_link: https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG?si=bTcY5tYMR8C68KQF_2VsyQ
+  genres:
+    - rnb
+    - hip-hop
+  lyric: why do you long for love
+  highlight: simp for groovy beats as usual
+  date: 2021-11-05T00:00:00.000Z
+  week: Oct 29 - Nov 4, 2021
+  img: who-do-you-love.jpg
+  song_link: https://open.spotify.com/track/3RET6JiPnPh3CzKYDVAydk?si=d544a620198e4910
+  artist_link: >-
+    https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG?si=bTcY5tYMR8C68KQF_2VsyQ
 - track: Chopstick
-  artist: "NiziU"
+  artist: NiziU
   scrobbles: 4
-  genres: [j-pop, color-pop]
-  lyric: "Speakers without music are meaningless, a phone with no battery has no use"
-  highlight: "Rima is a rapping queen"
-  date: 2021-11-12
-  week: "Nov 5 - Nov 11, 2021"
-  img: "chopstick.jpeg"
+  genres:
+    - j-pop
+    - color-pop
+  lyric: Speakers without music are meaningless, a phone with no battery has no use
+  highlight: Rima is a rapping queen
+  date: 2021-11-12T00:00:00.000Z
+  week: Nov 5 - Nov 11, 2021
+  img: chopstick.jpeg
   song_link: https://open.spotify.com/track/0X40DgD7jJr5DeiGXFAfcl?si=bc53bae722ee45e3
-  artist_link: https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ?si=cC9MLlO6TyOGPdZ36usiZQ
-- track: "ICON"
-  artist: "TWICE"
+  artist_link: >-
+    https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ?si=cC9MLlO6TyOGPdZ36usiZQ
+- track: ICON
+  artist: TWICE
   scrobbles: 11
-  genres: [k-pop, hip-hop]
-  lyric: "I ain't seeing no lies, look here, I'm the highlight"
-  highlight: "chaeyoung has bars for days"
-  date: 2021-11-19
-  week: "Nov 12 - Nov 18, 2021"
-  img: "icon.jpeg"
+  genres:
+    - k-pop
+    - hip-hop
+  lyric: I ain't seeing no lies, look here, I'm the highlight
+  highlight: chaeyoung has bars for days
+  date: 2021-11-19T00:00:00.000Z
+  week: Nov 12 - Nov 18, 2021
+  img: icon.jpeg
   song_link: https://open.spotify.com/track/2VdU1ksBKcETBr8BYRHUvB?si=336ba3c5eaad4bc1
-  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=M9B0vb-dTKGwcZZdqQinDQ
-- track: "Can We Kiss Forever?"
-  artist: "Kina"
+  artist_link: >-
+    https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=M9B0vb-dTKGwcZZdqQinDQ
+- track: Can We Kiss Forever?
+  artist: Kina
   scrobbles: 8
-  genres: [lo-fi, electronic]
-  lyric: "I crossed the ocean of my mind, My wounds are healing with the salt"
-  highlight: "perfect for driving in the rain"
-  date: 2021-11-26
-  week: "Nov 19 - Nov 25, 2021"
-  img: "can-we.jpeg"
+  genres:
+    - lo-fi
+    - electronic
+  lyric: I crossed the ocean of my mind, My wounds are healing with the salt
+  highlight: perfect for driving in the rain
+  date: 2021-11-26T00:00:00.000Z
+  week: Nov 19 - Nov 25, 2021
+  img: can-we.jpeg
   song_link: https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne?si=04b965a86e084d02
-  artist_link: https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF?si=veI43w3tQIiU3Fl8xQykgQ
-- track: "Golden"
-  artist: "Hippo Campus"
+  artist_link: >-
+    https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF?si=veI43w3tQIiU3Fl8xQykgQ
+- track: Golden
+  artist: Hippo Campus
   scrobbles: 5
-  genres: [pop-rock]
-  lyric: "Maybe I'm sick of sleeping longer nights with lesser feelings"
-  highlight: "hippo campus engages my hippocampus"
-  date: 2021-12-03
-  week: "Nov 26 - Dec 2, 2021"
-  img: "golden.jpeg"
+  genres:
+    - pop-rock
+  lyric: Maybe I'm sick of sleeping longer nights with lesser feelings
+  highlight: hippo campus engages my hippocampus
+  date: 2021-12-03T00:00:00.000Z
+  week: Nov 26 - Dec 2, 2021
+  img: golden.jpeg
   song_link: https://open.spotify.com/track/4vBIr27NcRFBNpyIxLHZuB?si=fbadd94e3564410b
-  artist-link: https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A?si=zHuofbejS1uMIIVY7gs0eQ
-- track: "Can We Kiss Forever?"
-  artist: "Kina"
+  artist-link: >-
+    https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A?si=zHuofbejS1uMIIVY7gs0eQ
+- track: Can We Kiss Forever?
+  artist: Kina
   scrobbles: 10
-  genres: [lo-fi, electronic]
-  lyric: "I crossed the ocean of my mind, My wounds are healing with the salt"
-  highlight: "perfect for driving in the rain"
-  date: 2021-12-10
-  week: "Dec 3 - Dec 9, 2021"
-  img: "can-we.jpeg"
+  genres:
+    - lo-fi
+    - electronic
+  lyric: I crossed the ocean of my mind, My wounds are healing with the salt
+  highlight: perfect for driving in the rain
+  date: 2021-12-10T00:00:00.000Z
+  week: Dec 3 - Dec 9, 2021
+  img: can-we.jpeg
   song_link: https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne?si=04b965a86e084d02
-  artist_link: https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF?si=veI43w3tQIiU3Fl8xQykgQ
-- track: "IF I DON'T TEXT YOU FIRST"
-  artist: "Tiffany Day"
+  artist_link: >-
+    https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF?si=veI43w3tQIiU3Fl8xQykgQ
+- track: IF I DON'T TEXT YOU FIRST
+  artist: Tiffany Day
   scrobbles: 7
-  genres: [rnb, hip-hop]
-  lyric: "Fuck it, you just freak out, playing with my feelings"
-  highlight: "groove for days"
-  date: 2021-12-17
-  week: "Dec 10 - Dec 16, 2021"
-  img: "if-i-dont.jpeg"
+  genres:
+    - rnb
+    - hip-hop
+  lyric: Fuck it, you just freak out, playing with my feelings
+  highlight: groove for days
+  date: 2021-12-17T00:00:00.000Z
+  week: Dec 10 - Dec 16, 2021
+  img: if-i-dont.jpeg
   song_link: https://open.spotify.com/track/2lNb0SzyOEHizMxlpT9HM6?si=01b390bc94434715
-  artist_link: https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu?si=YjmtPBRTQ-Km0t4N5LDnvw
-- track: "What Is Love"
+  artist_link: >-
+    https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu?si=YjmtPBRTQ-Km0t4N5LDnvw
+- track: What Is Love
   artist: TWICE
   scrobbles: 5
-  genres: [k-pop, color-pop]
-  lyric: "they say it’s sweet like candy, they say it feels like flying"
-  highlight: "infectious chorus, deserved soty 2018"
-  date: 2021-12-24
-  week: "Dec 17 - Dec 23, 2021"
-  img: "what-is-love.jpeg"
+  genres:
+    - k-pop
+    - color-pop
+  lyric: they say it’s sweet like candy, they say it feels like flying
+  highlight: infectious chorus, deserved soty 2018
+  date: 2021-12-24T00:00:00.000Z
+  week: Dec 17 - Dec 23, 2021
+  img: what-is-love.jpeg
   song_link: https://open.spotify.com/track/3zhbXKFjUDw40pTYyCgt1Y?si=3415bdff6e504cad
-  artist_link: https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=yojAcTv2SFmZwugSfVq69Q
+  artist_link: >-
+    https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0?si=yojAcTv2SFmZwugSfVq69Q
+- track: beside you
+  artist: keshi
+  scrobbles: "6"
+  genres:
+    - rnb
+    - pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-01-02"
+  img: beside_you_keshi.png
+  song_link: https://www.last.fm/music/Keshi/_/beside+you
+  artist_link: https://www.last.fm/music/Keshi
+- track: FEEL ALRIGHT
+  artist: Tiffany Day
+  scrobbles: "7"
+  genres:
+    - rnb
+    - alternative
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-01-09"
+  img: FEEL_ALRIGHT_Tiffany_Day.png
+  song_link: https://www.last.fm/music/Tiffany+Day/_/FEEL+ALRIGHT
+  artist_link: https://www.last.fm/music/Tiffany+Day
+- track: Fantasy
+  artist: khai dreams
+  scrobbles: "6"
+  genres:
+    - alternative
+    - rnb
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-01-16"
+  img: Fantasy_khai_dreams.png
+  song_link: https://www.last.fm/music/khai+dreams/_/Fantasy
+  artist_link: https://www.last.fm/music/khai+dreams
+- track: walking in the rain to a café to write down private thoughts in public
+  artist: City Girl
+  scrobbles: "4"
+  genres:
+    - piano
+    - electronic
+    - lo-fi
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-01-23"
+  img: walking_in_the_rain__City_Girl.png
+  song_link: >-
+    https://www.last.fm/music/City+Girl/_/Walking+in+the+Rain+to+a+Cafe%CC%81+to+Write+Down+Private+Thoughts+in+Public
+  artist_link: https://www.last.fm/music/City+Girl
+- track: THE BADDEST
+  artist: K/DA
+  scrobbles: "5"
+  genres:
+    - electronic
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-01-30"
+  img: THE_BADDEST_K_DA.png
+  song_link: https://www.last.fm/music/K%2FDA/_/THE+BADDEST
+  artist_link: https://www.last.fm/music/K%2FDA
+- track: Melancholy Mood
+  artist: Emi Choi
+  scrobbles: "8"
+  genres:
+    - alternative
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-02-06"
+  img: Melancholy_Mood_Emi_Choi.png
+  song_link: https://www.last.fm/music/Emi+Choi/_/Melancholy+Mood
+  artist_link: https://www.last.fm/music/Emi+Choi
+- track: B.Y.S.
+  artist: keshi
+  scrobbles: "6"
+  genres:
+    - pop
+    - rnb
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-02-13"
+  img: B_Y_S__keshi.png
+  song_link: https://www.last.fm/music/Keshi/_/B.Y.S.
+  artist_link: https://www.last.fm/music/Keshi
+- track: The Feels
+  artist: TWICE
+  scrobbles: "8"
+  genres:
+    - pop
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-02-20"
+  img: The_Feels_TWICE.png
+  song_link: https://www.last.fm/music/TWICE/_/The+Feels
+  artist_link: https://www.last.fm/music/TWICE
+- track: RUN2U
+  artist: STAYC
+  scrobbles: "8"
+  genres:
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-02-27"
+  img: RUN2U_STAYC.png
+  song_link: https://www.last.fm/music/STAYC/_/RUN2U
+  artist_link: https://www.last.fm/music/STAYC
+- track: PLASTIC
+  artist: sakehands
+  scrobbles: "5"
+  genres:
+    - rnb
+    - hip-hop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-03-06"
+  img: PLASTIC_sakehands.png
+  song_link: https://www.last.fm/music/sakehands/_/PLASTIC
+  artist_link: https://www.last.fm/music/sakehands
+- track: Solar
+  artist: Weeekly
+  scrobbles: "6"
+  genres:
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-03-13"
+  img: Solar_Weeekly.png
+  song_link: https://www.last.fm/music/Weeekly/_/Solar
+  artist_link: https://www.last.fm/music/Weeekly
+- track: Seven Billion
+  artist: Aeden Alvarez
+  scrobbles: "8"
+  genres:
+    - rnb
+    - hip-hop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-03-20"
+  img: Seven_Billion_Aeden_Alvarez.png
+  song_link: https://www.last.fm/music/Aeden+Alvarez/_/Seven+Billion
+  artist_link: https://www.last.fm/music/Aeden+Alvarez
+- track: i like red
+  artist: Charlene Su
+  scrobbles: "8"
+  genres:
+    - alternative
+    - rnb
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-03-27"
+  img: i_like_red_Charlene_Su.png
+  song_link: https://www.last.fm/music/Charlene+Su/_/i+like+red
+  artist_link: https://www.last.fm/music/Charlene+Su
+- track: Dilemma
+  artist: Apink
+  scrobbles: "5"
+  genres:
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-04-03"
+  img: Dilemma_Apink.png
+  song_link: https://www.last.fm/music/Apink/_/Dilemma
+  artist_link: https://www.last.fm/music/Apink
+- track: LOVE DIVE
+  artist: IVE
+  scrobbles: "10"
+  genres:
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-04-10"
+  img: LOVE_DIVE_IVE.png
+  song_link: https://www.last.fm/music/Ive/_/love+dive
+  artist_link: https://www.last.fm/music/Ive
+- track: LOVE DIVE
+  artist: IVE
+  scrobbles: "5"
+  genres:
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-04-17"
+  img: LOVE_DIVE_IVE.png
+  song_link: https://www.last.fm/music/Ive/_/love+dive
+  artist_link: https://www.last.fm/music/Ive
+- track: Omae Wa Mou
+  artist: deadman 死人
+  scrobbles: "3"
+  genres:
+    - electronic
+    - j-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-04-24"
+  img: Omae_Wa_Mou_deadman___.png
+  song_link: https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA/_/Omae+Wa+Mou
+  artist_link: https://www.last.fm/music/deadman+%E6%AD%BB%E4%BA%BA
+- track: Sunset
+  artist: Alex Vourtsanis
+  scrobbles: "4"
+  genres:
+    - piano
+    - electronic
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-05-01"
+  img: Sunset_Alex_Vourtsanis.png
+  song_link: https://www.last.fm/music/Alex+Vourtsanis/_/Sunset
+  artist_link: https://www.last.fm/music/Alex+Vourtsanis
+- track: Sour Grapes
+  artist: LE SSERAFIM
+  scrobbles: "11"
+  genres:
+    - k-rnb
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-05-08"
+  img: Sour_Grapes_LE_SSERAFIM.png
+  song_link: https://www.last.fm/music/LE+SSERAFIM/_/Sour+Grapes
+  artist_link: https://www.last.fm/music/LE+SSERAFIM
+- track: Sour Grapes
+  artist: LE SSERAFIM
+  scrobbles: "6"
+  genres:
+    - k-rnb
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-05-15"
+  img: Sour_Grapes_LE_SSERAFIM.png
+  song_link: https://www.last.fm/music/LE+SSERAFIM/_/Sour+Grapes
+  artist_link: https://www.last.fm/music/LE+SSERAFIM
+- track: Missed call
+  artist: Jiselle
+  scrobbles: "6"
+  genres:
+    - k-rnb
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-05-22"
+  img: Missed_call_Jiselle.png
+  song_link: https://www.last.fm/music/Jiselle/_/Missed+call
+  artist_link: https://www.last.fm/music/Jiselle
+- track: Twinkle Wink
+  artist: Sanaas & Hurce
+  scrobbles: "4"
+  genres:
+    - electronic
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-05-29"
+  img: Twinkle_Wink_Sanaas___Hurce.png
+  song_link: https://www.last.fm/music/Sanaas+&+Hurce/_/Twinkle+Wink
+  artist_link: https://www.last.fm/music/Sanaas+&+Hurce
+- track: Reaction - OSU Edit
+  artist: James Landino
+  scrobbles: "9"
+  genres:
+    - electronic
+    - j-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-06-05"
+  img: Reaction___OSU_Edit_James_Landino.png
+  song_link: https://www.last.fm/music/James+Landino/_/Reaction+-+Osu+Edit
+  artist_link: https://www.last.fm/music/James+Landino
+- track: LOVE DIVE
+  artist: IVE
+  scrobbles: "8"
+  genres:
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-06-12"
+  img: LOVE_DIVE_IVE.png
+  song_link: https://www.last.fm/music/Ive/_/love+dive
+  artist_link: https://www.last.fm/music/Ive
+- track: i love when it rains in LA
+  artist: Wu Am I
+  scrobbles: "6"
+  genres:
+    - rnb
+    - hip-hop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-06-19"
+  img: i_love_when_it_rains_Wu_Am_I.png
+  song_link: https://www.last.fm/music/Wu+Am+I/_/i+love+when+it+rains+in+LA
+  artist_link: https://www.last.fm/music/Wu+Am+I
+- track: Up!
+  artist: Kep1er
+  scrobbles: "13"
+  genres:
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-06-26"
+  img: Up__Kep1er.png
+  song_link: https://www.last.fm/music/Kep1er/_/Up%21
+  artist_link: https://www.last.fm/music/Kep1er
+- track: Love Countdown (feat. Wonstein)
+  artist: Nayeon
+  scrobbles: "11"
+  genres:
+    - k-rnb
+    - k-pop
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-07-03"
+  img: Love_Countdown__feat_Nayeon.png
+  song_link: https://www.last.fm/music/Nayeon/_/Love+Countdown+(feat.+Wonstein)
+  artist_link: https://www.last.fm/music/Nayeon
+- track: Last Sequence
+  artist: WJSN
+  scrobbles: "10"
+  genres:
+    - k-pop
+    - electronic
+  lyric: To be updated!
+  highlight: To be updated!
+  date: "2022-07-12"
+  img: Last_Sequence_WJSN.png
+  song_link: https://www.last.fm/music/WJSN/_/Last+Sequence
+  artist_link: https://www.last.fm/music/WJSN

@@ -13,3 +13,4 @@ permalink: /todo/
 | Understand the value of positive feedback | 8/28/21  |
 | How to construct constructive criticism   | 8/28/21  |
 | Be more empathetic                        | 12/24/21 |
+| Be more genuine                           | 5/10/22  |

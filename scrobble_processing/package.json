@@ -1,0 +1,18 @@
+{
+  "name": "cronjobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "lastfm": "^0.9.3",
+    "node-fetch": "^3.2.6"
+  }
+}

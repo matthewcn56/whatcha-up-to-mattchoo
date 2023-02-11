@@ -3,9 +3,10 @@ layout: post
 title: "Top Scrobbled Analytics"
 tags: entertainment quantified
 permalink: /scrobbled-analytics/
+date: 2022-07-11
 ---
 
-Analytics of my most listened to song each week, last updated: {{ site.data.top_scrobbled.last.week }}. Pulled from my [last.fm](https://www.last.fm/user/Mattchooachoo). (A scrobble is a listen)
+Analytics of my most listened to song each week, last updated: {{ site.data.top_scrobbled.last.date | date: "%B %-d, %Y" }}. Pulled from my [last.fm](https://www.last.fm/user/Mattchooachoo) and automatically updated every week with the last.fm api and github actions. (A scrobble is a listen)
 
 ## Most Prominent Genres:
 
@@ -14,12 +15,6 @@ Analytics of my most listened to song each week, last updated: {{ site.data.top_
 ## Most Scrobbled Tracks:
 
 ![tracksCloud](/assets/images/song_data/tracksCloud.png)
-
-## Lyrics Visualization:
-
-![lyricsCloud](/assets/images/song_data/lyricsCloud.png)
-
-Word clouds were generated with [WordItOut](https://worditout.com/word-cloud/create).
 
 ## Full Weekly List
 
