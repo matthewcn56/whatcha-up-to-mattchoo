@@ -7,4 +7,4 @@ title: hammock-chats
 
 <img src="/assets/images/hammock_chats.jpg" class="hammock-img" />
 
-Check out the full list of episodes [here!](https://rss.com/podcasts/hammock-chats/)
+Check out the full list of episodes [here!](https://anchor.fm/hammock-chats)
