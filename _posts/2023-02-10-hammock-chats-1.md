@@ -2,9 +2,11 @@
 layout: left-aligned-post
 title: "Hammock Chats 1: Relationships With Ourselves And Others"
 tags: hammock-chats
+permalink: /hammock-chats/1
+
 ---
 Matt and Helena talk about healthy relationships with themselves and with others on the inaugural episode of Hammock Chats!
-<iframe src="https://player.rss.com/hammock-chats/821416" style="width: 100%" title="rss embed thingy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/hammock-chats/821416/">Episode 1: Relationships with Ourselves and Others | RSS.com</a></iframe>
+<iframe src="https://anchor.fm/hammock-chats/embed/episodes/Episode-1-Relationships-with-Ourselves-and-Others-e1v9iak" width="100%" frameborder="0" scrolling="no"></iframe>
 
 
 # Topics:
