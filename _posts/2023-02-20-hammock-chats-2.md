@@ -50,7 +50,7 @@ Romance is like... the possibility of love. If flirting is to sex, then romance 
 
 You've also had your fair share of trying to figure out how to define your relationship, so what differentiates between romantic and close platonic friendships.
 
-##  How Do You Differentiate Between Romantic and Platonic Relationships (4:54)
+##  How Do You Differentiate Between Romantic and Platonic Relationships
 
 <span class="speaker">Archie:</span> 
 <blockquote>
@@ -105,7 +105,7 @@ We might not consciously want offspring, but we might want a relationship for pr
 Is there ever a truly selfless relationship? Is there such thing as true altruism?
 </blockquote>
 
-# Does True Altruism Exist? (14:00)
+# Does True Altruism Exist?
 
 <span class="speaker">Archie:</span> I don't really believe in the concept of altruism as a whole, whether through the lens of romantic relationships or not. I feel like whatever you do is inherently selfish. For example, if I'm doing something nice for my current partner, I'm doing that because it makes ME feel good to do nice things for someone else.
 
@@ -129,7 +129,7 @@ Right now, I'm at this crossroads in my life trying to determine what are belief
  The ability to instill a sense of what's right, and what's wrong, on a foundational level, is what I'm grateful for from my parents.
 </blockquote>
 
-## What's Fundamentally Right and Wrong is Constantly Evolving (17:35)
+## What's Fundamentally Right and Wrong is Constantly Evolving
 
 <span class="speaker">Archie:</span> I think that this is just the concept of a social contract. You have to give up a certain amount of freedom to live in a society where you get protection.
 
@@ -139,7 +139,7 @@ The fundamental "rights and wrongs" come from that social contract. However, the
 
 <span class="speaker">Archie:</span> Human sacrifice is now seen as something barbaric and horrible. In the days where human sacrifice is performed, if you think about it from the past, people believed that they were doing something for the gods, for their own good. If you believed there was this all powerful god, you would give them what they cared about most. Obviously I don't agree with the concept of human sacrifice. I don't think you can say that our parents have instilled that in us when there isn't really a "set" thing.
 
-## Compulsory Heteronormativity and How Do You Define A Crush? (20:40, second rec)
+## Compulsory Heteronormativity and How Do You Define A Crush?
 
 <span class="speaker">Matt:</span> People didn't really agree with it in the past, but it's more acceptable nowadays. The ideal of how you define relationship was between a man and a woman is different now, and even two women or two men is socially acceptable now.
 
@@ -157,7 +157,7 @@ The reason why this can be confusing, is "what defines this romantic context"?
 <span class="speaker">Archie:</span> The way that I knew I had a crush on someone was from knowing that I wanted to kiss her. The thing that's confusing is that I'd totally kiss a man just for the vibes. However, it would feel more like a performance and not because I'm into it in a romantic or sexual context.
 
 
-## What Do We Want Out of Relationships (27:40)
+## What Do We Want Out of Relationships
 
 <span class="speaker">Archie:</span> Mine and my current partner's love languages are quite different outside of touch. As a math major, words of affirmation or signs of love are things that don't come naturally for me. I can't do it spontaneously, but the way that I do like to show love is by doing things. As for my love languages, she gets me gifts that have sentimental value that remind me of her.
 
